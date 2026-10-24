@@ -2,7 +2,6 @@
 
 import argparse
 import json
-import os
 import random
 import sys
 from datetime import datetime
@@ -18,6 +17,7 @@ from src.config import (
     GEMINI_API_KEY,
     GEMINI_MODEL,
     PUBLIC_BASE_URL,
+    ROOT,
     STATE_DIR,
     TELEGRAM_API,
     TELEGRAM_BOT_TOKEN,
@@ -91,7 +91,8 @@ Rules:
         timeout=45,
     )
     response.raise_for_status()
-    content = response.json()["candidates"][0]["content"]["parts"][0]["text"]
+    payload = response.json()
+    content = payload["candidates"][0]["content"]["parts"][0]["text"]
     return json.loads(content)
 
 
@@ -109,6 +110,7 @@ def fallback_idea(signals):
 
 
 def render_meme(idea, output_path: Path):
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     image = Image.new("RGB", (1080, 1080), "#101820")
     draw = ImageDraw.Draw(image)
 
@@ -143,6 +145,11 @@ def render_meme(idea, output_path: Path):
 
 
 def send_telegram_candidate(candidate, image_path: Path):
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+        raise ValueError(
+            "TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID GitHub secrets are required."
+        )
+
     url = f"{TELEGRAM_API}/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
     with image_path.open("rb") as photo:
         response = requests.post(
@@ -210,6 +217,7 @@ def main():
     image_path = GENERATED_DIR / f"{candidate_id}.png"
     render_meme(idea, image_path)
 
+    relative_image_path = image_path.relative_to(ROOT).as_posix()
     candidate = {
         "id": candidate_id,
         "date": today,
@@ -218,11 +226,9 @@ def main():
         "category": idea.get("category", "daily_life"),
         "caption": idea["caption"],
         "why_relevant": idea.get("why_relevant", ""),
-        "image_path": str(image_path.relative_to(image_path.parents[2])),
+        "image_path": relative_image_path,
         "public_image_url": (
-            f"{PUBLIC_BASE_URL}/{image_path.relative_to(image_path.parents[2])}"
-            if PUBLIC_BASE_URL
-            else ""
+            f"{PUBLIC_BASE_URL}/{relative_image_path}" if PUBLIC_BASE_URL else ""
         ),
     }
 
