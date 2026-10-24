@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "cricket",
+    "daily_life",
+    "tech_startup",
+    "bollywood_ott",
+    "festivals_seasons",
+    "money_shopping",
+    "internet_culture"
+  ],
+  "evergreen_topics": [
+    "Indian office meetings and client requirements",
+    "Food delivery delays and delivery partner updates",
+    "Bengaluru traffic and Indian city commuting",
+    "Online sale shopping and abandoned carts",
+    "Monsoon, summer heat, and Indian weather",
+    "Cricket fan reactions and match-day pressure",
+    "UPI, EMIs, salary day, and month-end budgeting",
+    "AI hype versus actual client budgets"
+  ],
+  "blocked_keywords": [
+    "communal",
+    "religious insult",
+    "sexual",
+    "casteist",
+    "personal attack",
+    "graphic violence",
+    "death tragedy"
+  ]
+}
