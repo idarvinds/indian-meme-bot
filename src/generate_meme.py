@@ -1,4 +1,4 @@
-"""Generate one topical Indian meme candidate and send it to Telegram."""
+"""Generate one topical Indian meme candidate using Gemini and send it to Telegram."""
 
 import argparse
 import json
@@ -15,7 +15,8 @@ sys.path.append(str(Path(__file__).resolve().parents[1]))
 
 from src.config import (
     GENERATED_DIR,
-    PERPLEXITY_API_KEY,
+    GEMINI_API_KEY,
+    GEMINI_MODEL,
     PUBLIC_BASE_URL,
     STATE_DIR,
     TELEGRAM_API,
@@ -28,53 +29,70 @@ from src.trends import collect_signals
 
 STATE_FILE = STATE_DIR / "state.json"
 REJECTED_FILE = STATE_DIR / "rejected_topics.json"
+GEMINI_URL = (
+    f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+)
 
 
-def ask_perplexity(signals, rejected):
-    if not PERPLEXITY_API_KEY:
+def ask_gemini(signals, rejected):
+    if not GEMINI_API_KEY:
         return fallback_idea(signals)
 
-    headlines = "\n".join(
-        f"- {item['title']}" for item in signals["india_news"][:25]
-    )
+    headlines = "\n".join(f"- {item['title']}" for item in signals["india_news"][:25])
     cricket = "\n".join(f"- {item['title']}" for item in signals["cricket_news"][:8])
-    evergreen = "\n".join(f"- {item}" for item in signals["priority_topics"]["evergreen_topics"])
+    evergreen = "\n".join(
+        f"- {item}" for item in signals["priority_topics"]["evergreen_topics"]
+    )
     blocked = ", ".join(signals["priority_topics"]["blocked_keywords"])
-    rejected_text = "\n".join(f"- {item.get('topic', '')}: {item.get('caption', '')}" for item in rejected[-10:])
+    rejected_text = "\n".join(
+        f"- {item.get('topic', '')}: {item.get('caption', '')}"
+        for item in rejected[-10:]
+    )
 
     prompt = f"""You create safe, funny, highly relatable Indian memes for Instagram.
 Use only current, broadly relevant Indian topics. Avoid politics, religion, caste, tragedy, sexual content, and personal attacks.
 Blocked concepts: {blocked}.
 
-Recent Indian news:\n{headlines}
+Recent Indian news:
+{headlines}
 
-Cricket news:\n{cricket}
+Cricket news:
+{cricket}
 
-Evergreen Indian humor topics:\n{evergreen}
+Evergreen Indian humor topics:
+{evergreen}
 
-Do not repeat these rejected ideas:\n{rejected_text}
+Do not repeat these rejected ideas:
+{rejected_text}
 
-Return only valid JSON with keys: topic, why_relevant, category, caption, safety_score, relatability_score.
-Caption must be original, Hinglish-friendly, under 180 characters, and suitable for a simple image meme.
+Return ONLY valid JSON with these keys:
+topic, why_relevant, category, caption, safety_score, relatability_score.
+
+Rules:
+- Caption must be original, Hinglish-friendly, and under 180 characters.
+- Choose a broadly relatable Indian topic with clear meme potential.
+- Do not use copyrighted dialogue, celebrity photos, or brand names in the caption.
+- safety_score and relatability_score must be integers from 1 to 10.
 """
 
     response = requests.post(
-        "https://api.perplexity.ai/chat/completions",
+        GEMINI_URL,
         headers={
-            "Authorization": f"Bearer {PERPLEXITY_API_KEY}",
             "Content-Type": "application/json",
+            "x-goog-api-key": GEMINI_API_KEY,
         },
         json={
-            "model": "sonar",
-            "messages": [{"role": "user", "content": prompt}],
-            "temperature": 0.8,
+            "contents": [{"parts": [{"text": prompt}]}],
+            "generationConfig": {
+                "temperature": 0.9,
+                "responseMimeType": "application/json",
+            },
         },
         timeout=45,
     )
     response.raise_for_status()
-    content = response.json()["choices"][0]["message"]["content"]
-    start, end = content.find("{"), content.rfind("}") + 1
-    return json.loads(content[start:end])
+    content = response.json()["candidates"][0]["content"]["parts"][0]["text"]
+    return json.loads(content)
 
 
 def fallback_idea(signals):
@@ -82,7 +100,7 @@ def fallback_idea(signals):
     topic = random.choice(topics)
     return {
         "topic": topic,
-        "why_relevant": "Evergreen Indian relatable humor used when live trend generation is unavailable.",
+        "why_relevant": "Evergreen Indian relatable humor used when Gemini is unavailable or quota is exhausted.",
         "category": "daily_life",
         "caption": "When the plan is simple, but the group chat turns it into a project.",
         "safety_score": 10,
@@ -95,7 +113,9 @@ def render_meme(idea, output_path: Path):
     draw = ImageDraw.Draw(image)
 
     try:
-        font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 54)
+        font = ImageFont.truetype(
+            "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 54
+        )
     except OSError:
         font = ImageFont.load_default()
 
@@ -133,7 +153,7 @@ def send_telegram_candidate(candidate, image_path: Path):
                     f"🇮🇳 Meme candidate #{candidate['attempt']} — {candidate['date']}\n\n"
                     f"Topic: {candidate['topic']}\n\n"
                     f"{candidate['caption']}\n\n"
-                    f"Approve to publish to Instagram."
+                    "Approve to publish to Instagram."
                 ),
             },
             files={"photo": photo},
@@ -151,7 +171,10 @@ def main():
     state = load_json(STATE_FILE, {})
     today = datetime.now().strftime("%Y-%m-%d")
 
-    if state.get("date") == today and state.get("status") in ("pending", "approved_posted"):
+    if state.get("date") == today and state.get("status") in (
+        "pending",
+        "approved_posted",
+    ):
         print("A candidate is already pending or approved for today.")
         return
 
@@ -176,7 +199,12 @@ def main():
 
     signals = collect_signals()
     rejected = load_json(REJECTED_FILE, [])
-    idea = ask_perplexity(signals, rejected)
+
+    try:
+        idea = ask_gemini(signals, rejected)
+    except Exception as exc:
+        print(f"Gemini generation failed, using fallback: {exc}")
+        idea = fallback_idea(signals)
 
     candidate_id = f"meme_{today.replace('-', '')}_{attempt}"
     image_path = GENERATED_DIR / f"{candidate_id}.png"
@@ -191,7 +219,11 @@ def main():
         "caption": idea["caption"],
         "why_relevant": idea.get("why_relevant", ""),
         "image_path": str(image_path.relative_to(image_path.parents[2])),
-        "public_image_url": f"{PUBLIC_BASE_URL}/{image_path.relative_to(image_path.parents[2])}" if PUBLIC_BASE_URL else "",
+        "public_image_url": (
+            f"{PUBLIC_BASE_URL}/{image_path.relative_to(image_path.parents[2])}"
+            if PUBLIC_BASE_URL
+            else ""
+        ),
     }
 
     state["current_candidate"] = candidate
