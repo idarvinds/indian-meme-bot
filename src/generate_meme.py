@@ -4,7 +4,8 @@ import os
 import requests
 from src.config import GEMINI_API_KEY, PUBLIC_BASE_URL
 from src.trends import collect_signals
-from src.visual_memes import concept, recent_items
+from src.visual_memes import recent_items
+from src.template_retry import concept
 from src.full_width_layout import render
 
 API = 'https://generativelanguage.googleapis.com/v1beta'
@@ -74,7 +75,7 @@ def ask_gemini(signals, rejected):
             except ValueError:
                 if attempt == 1:
                     raise RuntimeError('Gemini returned invalid JSON or source_id twice; no ungrounded meme was sent') from None
-                print('Retrying invalid JSON/source selection once; maximum two generation calls per candidate')
+                print('Retrying invalid JSON/source selection once; maximum two generation calls per template selection')
                 prompt += '\nYour previous response had invalid JSON or source_id. Return a JSON object with one exact source_id from the supplied list and all required meme fields.'
         raise RuntimeError('Source selection failed')
     return concept(signals, rejected, request)
