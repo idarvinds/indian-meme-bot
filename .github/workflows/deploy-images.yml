@@ -1,0 +1,45 @@
+name: Deploy meme images to GitHub Pages
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/deploy-images.yml'
+      - 'generated/**'
+  workflow_run:
+    workflows: ['Generate daily meme candidate', 'Telegram moderation and Instagram publishing']
+    types: [completed]
+    branches: [main]
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: meme-image-pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Stage images only; exclude source, state and credentials
+        shell: bash
+        run: |
+          mkdir -p "$RUNNER_TEMP/meme-site/generated"
+          find generated -maxdepth 1 -type f -name '*.jpg' -exec cp {} "$RUNNER_TEMP/meme-site/generated/" \;
+          test -n "$(find "$RUNNER_TEMP/meme-site/generated" -name '*.jpg' -print -quit)"
+          touch "$RUNNER_TEMP/meme-site/.nojekyll"
+          printf '%s' '<!doctype html><title>Meme images</title>' > "$RUNNER_TEMP/meme-site/index.html"
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ runner.temp }}/meme-site
+      - name: Deploy images
+        id: deployment
+        uses: actions/deploy-pages@v4
