@@ -8,6 +8,8 @@ permissions:
 concurrency:
   group: meme-pipeline
   cancel-in-progress: false
+env:
+  GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
 jobs:
   moderate:
     runs-on: ubuntu-latest
