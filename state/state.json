@@ -1,21 +1,23 @@
 {
   "date": "2026-10-25",
-  "attempts": 1,
-  "rejected": [],
+  "attempts": 2,
+  "rejected": [
+    "meme_20261025_1"
+  ],
   "status": "pending",
   "current_candidate": {
-    "topic": "Switching fitness trackers and health data",
-    "why_relevant": "People frequently switch between fitness trackers like Apple, Garmin, or Fitbit and stress over losing their old step counts and workout streaks.",
-    "category": "tech_startup",
-    "caption": "When you switch fitness watches and realize your 10,000 steps streak didn't sync: 'Ab toh rona padega ya naya motivation dhundna padega!'",
+    "topic": "Silver price drops from Rs 4.2 Lakh to Rs 1.9 Lakh",
+    "why_relevant": "Reflects the recent market news headline about silver prices crashing sharply, which is a massive talking point for households and investors tracking commodity markets.",
+    "category": "money_shopping",
+    "caption": "Silver price dropping from 4.2 Lakh to 1.9 Lakh... Mom: 'Maine bola tha na, thoda aur rukte!' Investors: *internal screaming*",
     "safety_score": 10,
     "relatability_score": 9,
-    "id": "meme_20261025_1",
+    "id": "meme_20261025_2",
     "date": "2026-10-25",
-    "attempt": 1,
-    "image_path": "generated/meme_20261025_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261025_1.jpg",
-    "telegram_message_id": 4
+    "attempt": 2,
+    "image_path": "generated/meme_20261025_2.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261025_2.jpg",
+    "telegram_message_id": 5
   },
   "approved_candidate": null
 }

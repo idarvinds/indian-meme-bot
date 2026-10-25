@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "topic": "Switching fitness trackers and health data",
+    "why_relevant": "People frequently switch between fitness trackers like Apple, Garmin, or Fitbit and stress over losing their old step counts and workout streaks.",
+    "category": "tech_startup",
+    "caption": "When you switch fitness watches and realize your 10,000 steps streak didn't sync: 'Ab toh rona padega ya naya motivation dhundna padega!'",
+    "safety_score": 10,
+    "relatability_score": 9,
+    "id": "meme_20261025_1",
+    "date": "2026-10-25",
+    "attempt": 1,
+    "image_path": "generated/meme_20261025_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261025_1.jpg",
+    "telegram_message_id": 4
+  }
+]
