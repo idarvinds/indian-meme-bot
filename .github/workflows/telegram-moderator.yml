@@ -1,50 +1,44 @@
 name: Telegram moderation and Instagram publishing
-
 on:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: '*/5 * * * *'
   workflow_dispatch:
-
 permissions:
   contents: write
-
+concurrency:
+  group: meme-pipeline
+  cancel-in-progress: false
 jobs:
   moderate:
     runs-on: ubuntu-latest
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-
+          ref: main
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Handle Telegram approval or rejection
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Handle Telegram decisions and approved publishing
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-2.5-flash
-          PUBLIC_BASE_URL: https://idarvinds.github.io/indian-meme-bot
-        run: python -m src.telegram_moderator
-
-      - name: Publish approved meme to Instagram
-        env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_MODERATOR_USER_ID: ${{ secrets.TELEGRAM_MODERATOR_USER_ID }}
           INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
           INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
+          INSTAGRAM_PUBLISH_ENABLED: ${{ vars.INSTAGRAM_PUBLISH_ENABLED }}
           PUBLIC_BASE_URL: https://idarvinds.github.io/indian-meme-bot
-        run: python -m src.instagram_publisher
-
-      - name: Commit state and generated files
+        run: python -m src.pipeline moderate
+      - name: Save moderation state even after errors
+        if: always()
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p generated state
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add generated state
-          git commit -m "Update meme moderation state" || echo "Nothing to commit"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m 'Save Telegram moderation state'
+            git push origin HEAD:main
+          fi
