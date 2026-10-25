@@ -5,7 +5,7 @@
     "meme_20261025_1",
     "meme_20261025_2"
   ],
-  "status": "pending",
+  "status": "approved_pending_instagram",
   "current_candidate": {
     "topic": "Apple introducing Touch screen on MacBook Pro",
     "category": "tech_startup",
@@ -35,5 +35,33 @@
     "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261025_3.jpg",
     "telegram_message_id": 6
   },
-  "approved_candidate": null
+  "approved_candidate": {
+    "topic": "Apple introducing Touch screen on MacBook Pro",
+    "category": "tech_startup",
+    "why_relevant": "Apple finally deciding to add a touch screen to the MacBook Pro after two decades of resistance is a massive milestone that tech enthusiasts and loyalists are reacting to with immense surprise.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMiygFBVV95cUxQU050VmdaXzZvZzVfNXRjQXo2SnVzYVRPOHppZ3QxcmN5ejItUy10Mm50Z1VkdGVSUlNKaXJRVnBUbmdmdEs2T1Z2UXhzRmNQYTZzdVFmeVdXcmt5VmRvOFA5dHRCX2RDajBlZFF1ZlZnWE03Qk1ZWUpNUndjTHNEWnpXOEpuV080OXFXTTN1UldKU3N2YjdfNzlCbENQWkNmWVJPbEJ6eHVQRU85MzJBNGMzS2VyakJGanJIZTMzUTlNUnpicXJKbDJR?oc=5",
+    "template_id": "181913649",
+    "panel_text": [
+      "Old Apple: No touch screen, keyboard is enough",
+      "MacBook Pro getting a touch screen after two decades"
+    ],
+    "caption": "Apple adding touch screen after twenty years... Steve Jobs must be rolling! 💻✨ #Apple #TechHumor",
+    "source_id": "news_18",
+    "safety_score": 10,
+    "relatability_score": 9,
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU050VmdaXzZvZzVfNXRjQXo2SnVzYVRPOHppZ3QxcmN5ejItUy10Mm50Z1VkdGVSUlNKaXJRVnBUbmdmdEs2T1Z2UXhzRmNQYTZzdVFmeVdXcmt5VmRvOFA5dHRCX2RDajBlZFF1ZlZnWE03Qk1ZWUpNUndjTHNEWnpXOEpuV080OXFXTTN1UldKU3N2YjdfNzlCbENQWkNmWVJPbEJ6eHVQRU85MzJBNGMzS2VyakJGanJIZTMzUTlNUnpicXJKbDJR?oc=5",
+    "template": {
+      "id": "181913649",
+      "name": "Drake Hotline Bling",
+      "image_url": "https://i.imgflip.com/30b1gx.jpg",
+      "panels": 2,
+      "source": "Imgflip popularity feed; not verified India trends"
+    },
+    "template_fetched_at": "2026-10-25T17:10:47.955946+00:00",
+    "id": "meme_20261025_3",
+    "date": "2026-10-25",
+    "attempt": 3,
+    "image_path": "generated/meme_20261025_3.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261025_3.jpg",
+    "telegram_message_id": 6
+  }
 }
