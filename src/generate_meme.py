@@ -4,7 +4,8 @@ import os
 import requests
 from src.config import GEMINI_API_KEY, PUBLIC_BASE_URL
 from src.trends import collect_signals
-from src.visual_memes import concept, render, recent_items
+from src.visual_memes import concept, recent_items
+from src.full_width_layout import render
 
 API = 'https://generativelanguage.googleapis.com/v1beta'
 
