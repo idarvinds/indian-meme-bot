@@ -12,5 +12,19 @@
     "image_path": "generated/meme_20261025_1.jpg",
     "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261025_1.jpg",
     "telegram_message_id": 4
+  },
+  {
+    "topic": "Silver price drops from Rs 4.2 Lakh to Rs 1.9 Lakh",
+    "why_relevant": "Reflects the recent market news headline about silver prices crashing sharply, which is a massive talking point for households and investors tracking commodity markets.",
+    "category": "money_shopping",
+    "caption": "Silver price dropping from 4.2 Lakh to 1.9 Lakh... Mom: 'Maine bola tha na, thoda aur rukte!' Investors: *internal screaming*",
+    "safety_score": 10,
+    "relatability_score": 9,
+    "id": "meme_20261025_2",
+    "date": "2026-10-25",
+    "attempt": 2,
+    "image_path": "generated/meme_20261025_2.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261025_2.jpg",
+    "telegram_message_id": 5
   }
 ]
