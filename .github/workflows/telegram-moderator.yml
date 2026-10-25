@@ -32,7 +32,7 @@ jobs:
           INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
           INSTAGRAM_PUBLISH_ENABLED: ${{ vars.INSTAGRAM_PUBLISH_ENABLED }}
           PUBLIC_BASE_URL: https://idarvinds.github.io/indian-meme-bot
-        run: python -m src.pipeline moderate
+        run: python -m src.moderation
       - name: Save moderation state even after errors
         if: always()
         run: |
