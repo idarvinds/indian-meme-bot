@@ -1,25 +1,22 @@
 {
-  "date": "2026-10-25",
-  "attempts": 3,
-  "rejected": [
-    "meme_20261025_1",
-    "meme_20261025_2"
-  ],
-  "status": "approved_posted",
+  "date": "2026-10-26",
+  "attempts": 1,
+  "rejected": [],
+  "status": "pending",
   "current_candidate": {
-    "topic": "Apple introducing Touch screen on MacBook Pro",
+    "topic": "Solving daily word puzzle games like Quordle and Strands",
     "category": "tech_startup",
-    "why_relevant": "Apple finally deciding to add a touch screen to the MacBook Pro after two decades of resistance is a massive milestone that tech enthusiasts and loyalists are reacting to with immense surprise.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMiygFBVV95cUxQU050VmdaXzZvZzVfNXRjQXo2SnVzYVRPOHppZ3QxcmN5ejItUy10Mm50Z1VkdGVSUlNKaXJRVnBUbmdmdEs2T1Z2UXhzRmNQYTZzdVFmeVdXcmt5VmRvOFA5dHRCX2RDajBlZFF1ZlZnWE03Qk1ZWUpNUndjTHNEWnpXOEpuV080OXFXTTN1UldKU3N2YjdfNzlCbENQWkNmWVJPbEJ6eHVQRU85MzJBNGMzS2VyakJGanJIZTMzUTlNUnpicXJKbDJR?oc=5",
+    "why_relevant": "Reflects the daily morning routine of people checking CNET Strands and Forbes Quordle hints before starting work.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGdzVmQ3TEhWcnVTZE50RWxoVkhNcWVLVzRMcXBody1uOG1zSGJxOGg3SExwdUJkYXlaRFNPU01Na3g1QmR1aDdSeGhheVN6akljcGRCc3p6TElDVms5ZjlkREo2REFDckM2Vk95QWNVc2t1MG5DVlFiX3kxU0o3Wk1OU3Jtc3FrbmgtdjRqMmVDSWJZcWUwX0Q2SEstSkZtT0ZTMzlVSQ?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Old Apple: No touch screen, keyboard is enough",
-      "MacBook Pro getting a touch screen after two decades"
+      "Working hard on office projects",
+      "Checking Quordle and Strands hints first"
     ],
-    "caption": "Apple adding touch screen after twenty years... Steve Jobs must be rolling! 💻✨ #Apple #TechHumor",
-    "source_id": "news_18",
+    "caption": "Priorities are crystal clear every morning! 🧠✨ #Quordle #WordGames #MorningRoutine",
+    "source_id": "news_20",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU050VmdaXzZvZzVfNXRjQXo2SnVzYVRPOHppZ3QxcmN5ejItUy10Mm50Z1VkdGVSUlNKaXJRVnBUbmdmdEs2T1Z2UXhzRmNQYTZzdVFmeVdXcmt5VmRvOFA5dHRCX2RDajBlZFF1ZlZnWE03Qk1ZWUpNUndjTHNEWnpXOEpuV080OXFXTTN1UldKU3N2YjdfNzlCbENQWkNmWVJPbEJ6eHVQRU85MzJBNGMzS2VyakJGanJIZTMzUTlNUnpicXJKbDJR?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGdzVmQ3TEhWcnVTZE50RWxoVkhNcWVLVzRMcXBody1uOG1zSGJxOGg3SExwdUJkYXlaRFNPU01Na3g1QmR1aDdSeGhheVN6akljcGRCc3p6TElDVms5ZjlkREo2REFDckM2Vk95QWNVc2t1MG5DVlFiX3kxU0o3Wk1OU3Jtc3FrbmgtdjRqMmVDSWJZcWUwX0Q2SEstSkZtT0ZTMzlVSQ?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -27,42 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-10-25T17:10:47.955946+00:00",
-    "id": "meme_20261025_3",
-    "date": "2026-10-25",
-    "attempt": 3,
-    "image_path": "generated/meme_20261025_3.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261025_3.jpg",
-    "telegram_message_id": 6
+    "template_fetched_at": "2026-10-26T09:16:17.681183+00:00",
+    "id": "meme_20261026_1",
+    "date": "2026-10-26",
+    "attempt": 1,
+    "image_path": "generated/meme_20261026_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261026_1.jpg",
+    "telegram_message_id": 8
   },
-  "approved_candidate": {
-    "topic": "Apple introducing Touch screen on MacBook Pro",
-    "category": "tech_startup",
-    "why_relevant": "Apple finally deciding to add a touch screen to the MacBook Pro after two decades of resistance is a massive milestone that tech enthusiasts and loyalists are reacting to with immense surprise.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMiygFBVV95cUxQU050VmdaXzZvZzVfNXRjQXo2SnVzYVRPOHppZ3QxcmN5ejItUy10Mm50Z1VkdGVSUlNKaXJRVnBUbmdmdEs2T1Z2UXhzRmNQYTZzdVFmeVdXcmt5VmRvOFA5dHRCX2RDajBlZFF1ZlZnWE03Qk1ZWUpNUndjTHNEWnpXOEpuV080OXFXTTN1UldKU3N2YjdfNzlCbENQWkNmWVJPbEJ6eHVQRU85MzJBNGMzS2VyakJGanJIZTMzUTlNUnpicXJKbDJR?oc=5",
-    "template_id": "181913649",
-    "panel_text": [
-      "Old Apple: No touch screen, keyboard is enough",
-      "MacBook Pro getting a touch screen after two decades"
-    ],
-    "caption": "Apple adding touch screen after twenty years... Steve Jobs must be rolling! 💻✨ #Apple #TechHumor",
-    "source_id": "news_18",
-    "safety_score": 10,
-    "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU050VmdaXzZvZzVfNXRjQXo2SnVzYVRPOHppZ3QxcmN5ejItUy10Mm50Z1VkdGVSUlNKaXJRVnBUbmdmdEs2T1Z2UXhzRmNQYTZzdVFmeVdXcmt5VmRvOFA5dHRCX2RDajBlZFF1ZlZnWE03Qk1ZWUpNUndjTHNEWnpXOEpuV080OXFXTTN1UldKU3N2YjdfNzlCbENQWkNmWVJPbEJ6eHVQRU85MzJBNGMzS2VyakJGanJIZTMzUTlNUnpicXJKbDJR?oc=5",
-    "template": {
-      "id": "181913649",
-      "name": "Drake Hotline Bling",
-      "image_url": "https://i.imgflip.com/30b1gx.jpg",
-      "panels": 2,
-      "source": "Imgflip popularity feed; not verified India trends"
-    },
-    "template_fetched_at": "2026-10-25T17:10:47.955946+00:00",
-    "id": "meme_20261025_3",
-    "date": "2026-10-25",
-    "attempt": 3,
-    "image_path": "generated/meme_20261025_3.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261025_3.jpg",
-    "telegram_message_id": 6
-  },
-  "instagram_media_id": "18081480224373344"
+  "approved_candidate": null
 }
