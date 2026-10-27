@@ -1,36 +1,36 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Solving daily word puzzle games like Quordle and Strands",
-    "category": "tech_startup",
-    "why_relevant": "Reflects the daily morning routine of people checking CNET Strands and Forbes Quordle hints before starting work.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGdzVmQ3TEhWcnVTZE50RWxoVkhNcWVLVzRMcXBody1uOG1zSGJxOGg3SExwdUJkYXlaRFNPU01Na3g1QmR1aDdSeGhheVN6akljcGRCc3p6TElDVms5ZjlkREo2REFDckM2Vk95QWNVc2t1MG5DVlFiX3kxU0o3Wk1OU3Jtc3FrbmgtdjRqMmVDSWJZcWUwX0Q2SEstSkZtT0ZTMzlVSQ?oc=5",
-    "template_id": "181913649",
+    "topic": "Cyclone Arnab naming and news debates",
+    "category": "pop_culture",
+    "why_relevant": "The news about a cyclone being named Arnab creates an instant humorous link to high-decibel television news debates in India.\nTemplate: Woman Yelling At Cat\nSource: https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ2FJVzJfYW1CYS11eFl6d1VIY3pqQVZ4dEVWUE1jZkZMY3lSenlOeG9YU1FDSE9hd3JuR1JVU2ZXb2FNYmR0TXNURUxqMTRSSmh3V1E0T0NGX1lELUd2ZmZpa1hpTHNyN01rVmdhQ0ZhTXFXU3E1SmN0b0UzYXVNOTFBTTJ5SjluV2lwaFJxdm1KbjBKbGVDdkU0SU9mMlp0ODgwM0lEVWZNZkIzRkhhb3ZmQnJxSEgxUFVpRTNwXzNhRHJ6ckt3YVptR21BSGpxZTdmOHlIakVGUmFiaFF6MzYtLTE?oc=5",
+    "template_id": "188390779",
     "panel_text": [
-      "Working hard on office projects",
-      "Checking Quordle and Strands hints first"
+      "Cyclone Arnab is coming with full wind speed!",
+      "Pure newsroom debate energy with zero chill!"
     ],
-    "caption": "Priorities are crystal clear every morning! 🧠✨ #Quordle #WordGames #MorningRoutine",
-    "source_id": "news_20",
+    "caption": "Jab cyclone ka naam hi Arnab ho, toh hawa nahi seedhe debate chalegi! 🌪️📺 #CycloneArnab #NewsroomDrama",
+    "source_id": "news_1",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGdzVmQ3TEhWcnVTZE50RWxoVkhNcWVLVzRMcXBody1uOG1zSGJxOGg3SExwdUJkYXlaRFNPU01Na3g1QmR1aDdSeGhheVN6akljcGRCc3p6TElDVms5ZjlkREo2REFDckM2Vk95QWNVc2t1MG5DVlFiX3kxU0o3Wk1OU3Jtc3FrbmgtdjRqMmVDSWJZcWUwX0Q2SEstSkZtT0ZTMzlVSQ?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ2FJVzJfYW1CYS11eFl6d1VIY3pqQVZ4dEVWUE1jZkZMY3lSenlOeG9YU1FDSE9hd3JuR1JVU2ZXb2FNYmR0TXNURUxqMTRSSmh3V1E0T0NGX1lELUd2ZmZpa1hpTHNyN01rVmdhQ0ZhTXFXU3E1SmN0b0UzYXVNOTFBTTJ5SjluV2lwaFJxdm1KbjBKbGVDdkU0SU9mMlp0ODgwM0lEVWZNZkIzRkhhb3ZmQnJxSEgxUFVpRTNwXzNhRHJ6ckt3YVptR21BSGpxZTdmOHlIakVGUmFiaFF6MzYtLTE?oc=5",
     "template": {
-      "id": "181913649",
-      "name": "Drake Hotline Bling",
-      "image_url": "https://i.imgflip.com/30b1gx.jpg",
+      "id": "188390779",
+      "name": "Woman Yelling At Cat",
+      "image_url": "https://i.imgflip.com/345v97.jpg",
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-10-26T09:16:17.681183+00:00",
-    "id": "meme_20261026_1",
-    "date": "2026-10-26",
+    "template_fetched_at": "2026-10-27T09:16:13.737367+00:00",
+    "id": "meme_20261027_1",
+    "date": "2026-10-27",
     "attempt": 1,
-    "image_path": "generated/meme_20261026_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261026_1.jpg",
-    "telegram_message_id": 8
+    "image_path": "generated/meme_20261027_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261027_1.jpg",
+    "telegram_message_id": 9
   },
   "approved_candidate": null
 }
