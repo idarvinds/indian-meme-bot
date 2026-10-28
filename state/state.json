@@ -1,36 +1,36 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Cyclone Arnab naming and news debates",
-    "category": "pop_culture",
-    "why_relevant": "The news about a cyclone being named Arnab creates an instant humorous link to high-decibel television news debates in India.\nTemplate: Woman Yelling At Cat\nSource: https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ2FJVzJfYW1CYS11eFl6d1VIY3pqQVZ4dEVWUE1jZkZMY3lSenlOeG9YU1FDSE9hd3JuR1JVU2ZXb2FNYmR0TXNURUxqMTRSSmh3V1E0T0NGX1lELUd2ZmZpa1hpTHNyN01rVmdhQ0ZhTXFXU3E1SmN0b0UzYXVNOTFBTTJ5SjluV2lwaFJxdm1KbjBKbGVDdkU0SU9mMlp0ODgwM0lEVWZNZkIzRkhhb3ZmQnJxSEgxUFVpRTNwXzNhRHJ6ckt3YVptR21BSGpxZTdmOHlIakVGUmFiaFF6MzYtLTE?oc=5",
-    "template_id": "188390779",
+    "topic": "Abhishek Sharma century in T20 match",
+    "category": "sports",
+    "why_relevant": "Relates to the recent headline about Abhishek Sharma hitting a ton and helping India win against New Zealand in the T20 series.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDRsd2tQUkdNVkNld245a25kWFBTdjZjRWVQTEZGOWNzVmZnejZyTWVnX3BkTzk3OG90N2hQaEI5M2JIbG03M2NhTUlvWnNveXFNZzBNQ0ZRd3ZvV2lfN18zMC1CV0dlbzkzdzlTaEtVaG00ZkxNWVpOY29JVmtKVlFqYmdZdGNjbHJ3OG5mOXc3cDVLRWlGVWJCOHVKQlJHYkFkcHU4cG4xSDlMNVZ2NjVWeTFPQ1A1RmfSAb8BQVVfeXFMTUIyeWtNQjdhbkltemE3WWNwV3lPX200LXRYQldRTFlpeUYtYnQ2MWYyam5DM0hkY2kxV0VvNS10T1dwQWxhd1B1WW92LURRMVZzdTlVNlNEU2FaWkRZb2diRTloSXdTOHFzQzg3ZlRBcHoydG55WEQxMHRlb3ZSM0VNSHdQUEtZSlFZU3NzQ3BKckVvTUc0eFNaUzlsUUpGZkw2eFJJQ3BaYzM1bkNRaUNLMkhRRXJHZi1Ockk4ZUU?oc=5",
+    "template_id": "181913649",
     "panel_text": [
-      "Cyclone Arnab is coming with full wind speed!",
-      "Pure newsroom debate energy with zero chill!"
+      "Normal batting practice in nets",
+      "Abhishek Sharma hitting a century in the match"
     ],
-    "caption": "Jab cyclone ka naam hi Arnab ho, toh hawa nahi seedhe debate chalegi! 🌪️📺 #CycloneArnab #NewsroomDrama",
-    "source_id": "news_1",
+    "caption": "Jab nets me confidence high ho toh match me centuries toh nikal hi jaati hain! What a knock! #AbhishekSharma #TeamIndia",
+    "source_id": "news_18",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ2FJVzJfYW1CYS11eFl6d1VIY3pqQVZ4dEVWUE1jZkZMY3lSenlOeG9YU1FDSE9hd3JuR1JVU2ZXb2FNYmR0TXNURUxqMTRSSmh3V1E0T0NGX1lELUd2ZmZpa1hpTHNyN01rVmdhQ0ZhTXFXU3E1SmN0b0UzYXVNOTFBTTJ5SjluV2lwaFJxdm1KbjBKbGVDdkU0SU9mMlp0ODgwM0lEVWZNZkIzRkhhb3ZmQnJxSEgxUFVpRTNwXzNhRHJ6ckt3YVptR21BSGpxZTdmOHlIakVGUmFiaFF6MzYtLTE?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDRsd2tQUkdNVkNld245a25kWFBTdjZjRWVQTEZGOWNzVmZnejZyTWVnX3BkTzk3OG90N2hQaEI5M2JIbG03M2NhTUlvWnNveXFNZzBNQ0ZRd3ZvV2lfN18zMC1CV0dlbzkzdzlTaEtVaG00ZkxNWVpOY29JVmtKVlFqYmdZdGNjbHJ3OG5mOXc3cDVLRWlGVWJCOHVKQlJHYkFkcHU4cG4xSDlMNVZ2NjVWeTFPQ1A1RmfSAb8BQVVfeXFMTUIyeWtNQjdhbkltemE3WWNwV3lPX200LXRYQldRTFlpeUYtYnQ2MWYyam5DM0hkY2kxV0VvNS10T1dwQWxhd1B1WW92LURRMVZzdTlVNlNEU2FaWkRZb2diRTloSXdTOHFzQzg3ZlRBcHoydG55WEQxMHRlb3ZSM0VNSHdQUEtZSlFZU3NzQ3BKckVvTUc0eFNaUzlsUUpGZkw2eFJJQ3BaYzM1bkNRaUNLMkhRRXJHZi1Ockk4ZUU?oc=5",
     "template": {
-      "id": "188390779",
-      "name": "Woman Yelling At Cat",
-      "image_url": "https://i.imgflip.com/345v97.jpg",
+      "id": "181913649",
+      "name": "Drake Hotline Bling",
+      "image_url": "https://i.imgflip.com/30b1gx.jpg",
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-10-27T09:16:13.737367+00:00",
-    "id": "meme_20261027_1",
-    "date": "2026-10-27",
+    "template_fetched_at": "2026-10-28T09:57:18.929131+00:00",
+    "id": "meme_20261028_1",
+    "date": "2026-10-28",
     "attempt": 1,
-    "image_path": "generated/meme_20261027_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261027_1.jpg",
-    "telegram_message_id": 9
+    "image_path": "generated/meme_20261028_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261028_1.jpg",
+    "telegram_message_id": 10
   },
   "approved_candidate": null
 }
