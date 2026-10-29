@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Abhishek Sharma century in T20 match",
-    "category": "sports",
-    "why_relevant": "Relates to the recent headline about Abhishek Sharma hitting a ton and helping India win against New Zealand in the T20 series.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDRsd2tQUkdNVkNld245a25kWFBTdjZjRWVQTEZGOWNzVmZnejZyTWVnX3BkTzk3OG90N2hQaEI5M2JIbG03M2NhTUlvWnNveXFNZzBNQ0ZRd3ZvV2lfN18zMC1CV0dlbzkzdzlTaEtVaG00ZkxNWVpOY29JVmtKVlFqYmdZdGNjbHJ3OG5mOXc3cDVLRWlGVWJCOHVKQlJHYkFkcHU4cG4xSDlMNVZ2NjVWeTFPQ1A1RmfSAb8BQVVfeXFMTUIyeWtNQjdhbkltemE3WWNwV3lPX200LXRYQldRTFlpeUYtYnQ2MWYyam5DM0hkY2kxV0VvNS10T1dwQWxhd1B1WW92LURRMVZzdTlVNlNEU2FaWkRZb2diRTloSXdTOHFzQzg3ZlRBcHoydG55WEQxMHRlb3ZSM0VNSHdQUEtZSlFZU3NzQ3BKckVvTUc0eFNaUzlsUUpGZkw2eFJJQ3BaYzM1bkNRaUNLMkhRRXJHZi1Ockk4ZUU?oc=5",
+    "topic": "Apple unveils its first touchscreen MacBook Pro",
+    "category": "tech_startup",
+    "why_relevant": "Apple finally launching a touchscreen MacBook Pro breaks years of design philosophy, sparking instant relatable tech memes.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0huWEZkU2x4SGhISTZzMnpZTHFzTmxtMU9seVBLM2hUck5XVndQTkxid3lKU3l5bm1mNndBbklxT1l6MTJpQ1FxTWw0cUgwekJtM1poRnJ2R0hUWlEzU3lGSUlWdHR5TFJpVEZYZ0FkTUVYRXhZMENwbE5ySVFMUVV6eDRHNGdraXpweUpwdk11bVhLTlNjUQ?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Normal batting practice in nets",
-      "Abhishek Sharma hitting a century in the match"
+      "Normal laptops with keyboards",
+      "MacBook Pro getting a touchscreen"
     ],
-    "caption": "Jab nets me confidence high ho toh match me centuries toh nikal hi jaati hain! What a knock! #AbhishekSharma #TeamIndia",
-    "source_id": "news_18",
+    "caption": "Apple finally giving a touchscreen on MacBook... Le laptop users cleaning finger smudges everyday: 'Ab yehi naya routine hai!'",
+    "source_id": "news_17",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDRsd2tQUkdNVkNld245a25kWFBTdjZjRWVQTEZGOWNzVmZnejZyTWVnX3BkTzk3OG90N2hQaEI5M2JIbG03M2NhTUlvWnNveXFNZzBNQ0ZRd3ZvV2lfN18zMC1CV0dlbzkzdzlTaEtVaG00ZkxNWVpOY29JVmtKVlFqYmdZdGNjbHJ3OG5mOXc3cDVLRWlGVWJCOHVKQlJHYkFkcHU4cG4xSDlMNVZ2NjVWeTFPQ1A1RmfSAb8BQVVfeXFMTUIyeWtNQjdhbkltemE3WWNwV3lPX200LXRYQldRTFlpeUYtYnQ2MWYyam5DM0hkY2kxV0VvNS10T1dwQWxhd1B1WW92LURRMVZzdTlVNlNEU2FaWkRZb2diRTloSXdTOHFzQzg3ZlRBcHoydG55WEQxMHRlb3ZSM0VNSHdQUEtZSlFZU3NzQ3BKckVvTUc0eFNaUzlsUUpGZkw2eFJJQ3BaYzM1bkNRaUNLMkhRRXJHZi1Ockk4ZUU?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0huWEZkU2x4SGhISTZzMnpZTHFzTmxtMU9seVBLM2hUck5XVndQTkxid3lKU3l5bm1mNndBbklxT1l6MTJpQ1FxTWw0cUgwekJtM1poRnJ2R0hUWlEzU3lGSUlWdHR5TFJpVEZYZ0FkTUVYRXhZMENwbE5ySVFMUVV6eDRHNGdraXpweUpwdk11bVhLTlNjUQ?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-10-28T09:57:18.929131+00:00",
-    "id": "meme_20261028_1",
-    "date": "2026-10-28",
+    "template_fetched_at": "2026-10-29T10:19:28.341653+00:00",
+    "id": "meme_20261029_1",
+    "date": "2026-10-29",
     "attempt": 1,
-    "image_path": "generated/meme_20261028_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261028_1.jpg",
-    "telegram_message_id": 10
+    "image_path": "generated/meme_20261029_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261029_1.jpg",
+    "telegram_message_id": 11
   },
   "approved_candidate": null
 }
