@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Apple unveils its first touchscreen MacBook Pro",
+    "topic": "Crypto heist security panic",
     "category": "tech_startup",
-    "why_relevant": "Apple finally launching a touchscreen MacBook Pro breaks years of design philosophy, sparking instant relatable tech memes.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0huWEZkU2x4SGhISTZzMnpZTHFzTmxtMU9seVBLM2hUck5XVndQTkxid3lKU3l5bm1mNndBbklxT1l6MTJpQ1FxTWw0cUgwekJtM1poRnJ2R0hUWlEzU3lGSUlWdHR5TFJpVEZYZ0FkTUVYRXhZMENwbE5ySVFMUVV6eDRHNGdraXpweUpwdk11bVhLTlNjUQ?oc=5",
+    "why_relevant": "Reflects the massive headline about the record crypto heist, prompting everyone to frantically check their tiny wallet balances and passwords.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2l6N2lrZThFSm1uSnJyMTZFZ1E3czZHdnNLYnBCSm5DN0s0YW5MVXJIRnk3VEktZmxyMTdxemh4cGdVT2xWdFQzTThpRXFISFRZVnlsaEEzQXM1RUJhYy1pM1o0aWVnSHJGTWFEbXcyMEVrc1g4LXZ4OEYxaGt1MFdOY1dTVHlIcEFQX183RnJrdkJLa284ZXlWVEJLWF9RaUZ5YXpLX3VxV0FfVkhyMkp0Z3E1SVJx0gG-AUFVX3lxTFBNeUs0MjdQdXFna0tZUjJWTGhKNFhSWVc0U2s0bVVqbVAzVUVZUWd3Wm5ReVdMVkM1VHZGUFhWSE9za3VFRG1qQnF0cGJsTXQ3WjZKbEN6SnUxTDJrYjBNd0c4eTFQQUFfMFdWZ09icnhLRU0wejVuSDJHOFVmVHRGMGVGODVLV0ItSlM5eWdIVUhJR1F6UEpfOFFUQ3FoVHk3QURNYjYtM01VSThJLTRWVldfNmlqRFM4VzNYRUE?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Normal laptops with keyboards",
-      "MacBook Pro getting a touchscreen"
+      "Checking crypto portfolio after the huge cyber hack news",
+      "Realizing your total balance is just loose change and zero risk"
     ],
-    "caption": "Apple finally giving a touchscreen on MacBook... Le laptop users cleaning finger smudges everyday: 'Ab yehi naya routine hai!'",
-    "source_id": "news_17",
+    "caption": "Jab news mein massive crypto heist ki khabar aaye aur tumhara portfolio safe ho kyunki wahan kuch bacha hi nahi hai! 😅📉",
+    "source_id": "news_15",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0huWEZkU2x4SGhISTZzMnpZTHFzTmxtMU9seVBLM2hUck5XVndQTkxid3lKU3l5bm1mNndBbklxT1l6MTJpQ1FxTWw0cUgwekJtM1poRnJ2R0hUWlEzU3lGSUlWdHR5TFJpVEZYZ0FkTUVYRXhZMENwbE5ySVFMUVV6eDRHNGdraXpweUpwdk11bVhLTlNjUQ?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2l6N2lrZThFSm1uSnJyMTZFZ1E3czZHdnNLYnBCSm5DN0s0YW5MVXJIRnk3VEktZmxyMTdxemh4cGdVT2xWdFQzTThpRXFISFRZVnlsaEEzQXM1RUJhYy1pM1o0aWVnSHJGTWFEbXcyMEVrc1g4LXZ4OEYxaGt1MFdOY1dTVHlIcEFQX183RnJrdkJLa284ZXlWVEJLWF9RaUZ5YXpLX3VxV0FfVkhyMkp0Z3E1SVJx0gG-AUFVX3lxTFBNeUs0MjdQdXFna0tZUjJWTGhKNFhSWVc0U2s0bVVqbVAzVUVZUWd3Wm5ReVdMVkM1VHZGUFhWSE9za3VFRG1qQnF0cGJsTXQ3WjZKbEN6SnUxTDJrYjBNd0c4eTFQQUFfMFdWZ09icnhLRU0wejVuSDJHOFVmVHRGMGVGODVLV0ItSlM5eWdIVUhJR1F6UEpfOFFUQ3FoVHk3QURNYjYtM01VSThJLTRWVldfNmlqRFM4VzNYRUE?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-10-29T10:19:28.341653+00:00",
-    "id": "meme_20261029_1",
-    "date": "2026-10-29",
+    "template_fetched_at": "2026-10-30T10:22:00.583300+00:00",
+    "id": "meme_20261030_1",
+    "date": "2026-10-30",
     "attempt": 1,
-    "image_path": "generated/meme_20261029_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261029_1.jpg",
-    "telegram_message_id": 11
+    "image_path": "generated/meme_20261030_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261030_1.jpg",
+    "telegram_message_id": 12
   },
   "approved_candidate": null
 }
