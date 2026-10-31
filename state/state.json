@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Crypto heist security panic",
+    "topic": "ISRO rocket once called Naughty Boy launches next-gen satellite successfully",
     "category": "tech_startup",
-    "why_relevant": "Reflects the massive headline about the record crypto heist, prompting everyone to frantically check their tiny wallet balances and passwords.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2l6N2lrZThFSm1uSnJyMTZFZ1E3czZHdnNLYnBCSm5DN0s0YW5MVXJIRnk3VEktZmxyMTdxemh4cGdVT2xWdFQzTThpRXFISFRZVnlsaEEzQXM1RUJhYy1pM1o0aWVnSHJGTWFEbXcyMEVrc1g4LXZ4OEYxaGt1MFdOY1dTVHlIcEFQX183RnJrdkJLa284ZXlWVEJLWF9RaUZ5YXpLX3VxV0FfVkhyMkp0Z3E1SVJx0gG-AUFVX3lxTFBNeUs0MjdQdXFna0tZUjJWTGhKNFhSWVc0U2s0bVVqbVAzVUVZUWd3Wm5ReVdMVkM1VHZGUFhWSE9za3VFRG1qQnF0cGJsTXQ3WjZKbEN6SnUxTDJrYjBNd0c4eTFQQUFfMFdWZ09icnhLRU0wejVuSDJHOFVmVHRGMGVGODVLV0ItSlM5eWdIVUhJR1F6UEpfOFFUQ3FoVHk3QURNYjYtM01VSThJLTRWVldfNmlqRFM4VzNYRUE?oc=5",
+    "why_relevant": "ISRO's successful launch of the next-gen satellite using the rocket historically nicknamed 'Naughty Boy' (GSLV) is trending across news and social media.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMitwFBVV95cUxQY09aZVM3UjFhNGNWSTRueWw3WUM1blBnaEw5eWhGbEd5Qm5VQ3duYnVBbjVPYzZZRmI0LVNmZEhfNU1Nbll1dDJJbHZ5TWJoRi14VmdFTFM2NWFPalkxb2FNaEhNRWs1eWV3emRWaERXcGM0S2R0LVVtNks5LTItWHZudU02NTE5WWdvQkhDZlB6TDBZVVpLRzB4WnpJWXZSR0FQN29mcUJtUHNCMmZUVC1oMUVmcm8?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Checking crypto portfolio after the huge cyber hack news",
-      "Realizing your total balance is just loose change and zero risk"
+      "Calling the ISRO rocket Naughty Boy",
+      "Rocket launches next-gen satellite perfectly"
     ],
-    "caption": "Jab news mein massive crypto heist ki khabar aaye aur tumhara portfolio safe ho kyunki wahan kuch bacha hi nahi hai! 😅📉",
-    "source_id": "news_15",
+    "caption": "When the 'naughty boy' rocket finally behaves and delivers a masterpiece launch! Proud ISRO moment.",
+    "source_id": "news_8",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2l6N2lrZThFSm1uSnJyMTZFZ1E3czZHdnNLYnBCSm5DN0s0YW5MVXJIRnk3VEktZmxyMTdxemh4cGdVT2xWdFQzTThpRXFISFRZVnlsaEEzQXM1RUJhYy1pM1o0aWVnSHJGTWFEbXcyMEVrc1g4LXZ4OEYxaGt1MFdOY1dTVHlIcEFQX183RnJrdkJLa284ZXlWVEJLWF9RaUZ5YXpLX3VxV0FfVkhyMkp0Z3E1SVJx0gG-AUFVX3lxTFBNeUs0MjdQdXFna0tZUjJWTGhKNFhSWVc0U2s0bVVqbVAzVUVZUWd3Wm5ReVdMVkM1VHZGUFhWSE9za3VFRG1qQnF0cGJsTXQ3WjZKbEN6SnUxTDJrYjBNd0c4eTFQQUFfMFdWZ09icnhLRU0wejVuSDJHOFVmVHRGMGVGODVLV0ItSlM5eWdIVUhJR1F6UEpfOFFUQ3FoVHk3QURNYjYtM01VSThJLTRWVldfNmlqRFM4VzNYRUE?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY09aZVM3UjFhNGNWSTRueWw3WUM1blBnaEw5eWhGbEd5Qm5VQ3duYnVBbjVPYzZZRmI0LVNmZEhfNU1Nbll1dDJJbHZ5TWJoRi14VmdFTFM2NWFPalkxb2FNaEhNRWs1eWV3emRWaERXcGM0S2R0LVVtNks5LTItWHZudU02NTE5WWdvQkhDZlB6TDBZVVpLRzB4WnpJWXZSR0FQN29mcUJtUHNCMmZUVC1oMUVmcm8?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-10-30T10:22:00.583300+00:00",
-    "id": "meme_20261030_1",
-    "date": "2026-10-30",
+    "template_fetched_at": "2026-10-31T09:53:10.719590+00:00",
+    "id": "meme_20261031_1",
+    "date": "2026-10-31",
     "attempt": 1,
-    "image_path": "generated/meme_20261030_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261030_1.jpg",
-    "telegram_message_id": 12
+    "image_path": "generated/meme_20261031_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261031_1.jpg",
+    "telegram_message_id": 13
   },
   "approved_candidate": null
 }
