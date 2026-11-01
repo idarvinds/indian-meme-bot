@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "ISRO rocket once called Naughty Boy launches next-gen satellite successfully",
-    "category": "tech_startup",
-    "why_relevant": "ISRO's successful launch of the next-gen satellite using the rocket historically nicknamed 'Naughty Boy' (GSLV) is trending across news and social media.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMitwFBVV95cUxQY09aZVM3UjFhNGNWSTRueWw3WUM1blBnaEw5eWhGbEd5Qm5VQ3duYnVBbjVPYzZZRmI0LVNmZEhfNU1Nbll1dDJJbHZ5TWJoRi14VmdFTFM2NWFPalkxb2FNaEhNRWs1eWV3emRWaERXcGM0S2R0LVVtNks5LTItWHZudU02NTE5WWdvQkhDZlB6TDBZVVpLRzB4WnpJWXZSR0FQN29mcUJtUHNCMmZUVC1oMUVmcm8?oc=5",
+    "topic": "Cricket series win despite final match loss",
+    "category": "sports_gaming",
+    "why_relevant": "Reflects the recent India vs New Zealand T20 series news where India lost the final match but still clinched the overall series.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMihwJBVV95cUxOV0Z2QU5URzdyWFdKTHU0QWtGdXpFNXdZVWtieXRfNTlOSk5MT1QwVzAybTFiTlNXT1ZwUm12azRlZ0lXNjJudWoweTY0R01hVU9fWG9PU1piOTFudWI5TEE0VG1mQWFPNXVLdU44aGluQmR1aENfSDRJekQ4c3Y2cDVCSERtaExFSzlTOTdCVnlmSDI2QmZCUXRCU0NJNDdrazk1a1BubzRXZXhUSjN0WEpVZ2xybkZFQnRlcW5SUmhYbFBsRGJncEJHYjBiTDhSYjQyaGlRUTRwUWZoSDVZcTN5RmJ0U2x6MU5wRkJROFBWa0k5czd0Uk1ZN1U4Yjd4QVFVYy1uVQ?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Calling the ISRO rocket Naughty Boy",
-      "Rocket launches next-gen satellite perfectly"
+      "Last match haar gaye!",
+      "Series toh phir bhi humne hi jeeti hai!"
     ],
-    "caption": "When the 'naughty boy' rocket finally behaves and delivers a masterpiece launch! Proud ISRO moment.",
-    "source_id": "news_8",
+    "caption": "Jab final match mein haar jao par series already safe ho! 'Series toh apun ich jeeta hai!'",
+    "source_id": "news_17",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY09aZVM3UjFhNGNWSTRueWw3WUM1blBnaEw5eWhGbEd5Qm5VQ3duYnVBbjVPYzZZRmI0LVNmZEhfNU1Nbll1dDJJbHZ5TWJoRi14VmdFTFM2NWFPalkxb2FNaEhNRWs1eWV3emRWaERXcGM0S2R0LVVtNks5LTItWHZudU02NTE5WWdvQkhDZlB6TDBZVVpLRzB4WnpJWXZSR0FQN29mcUJtUHNCMmZUVC1oMUVmcm8?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOV0Z2QU5URzdyWFdKTHU0QWtGdXpFNXdZVWtieXRfNTlOSk5MT1QwVzAybTFiTlNXT1ZwUm12azRlZ0lXNjJudWoweTY0R01hVU9fWG9PU1piOTFudWI5TEE0VG1mQWFPNXVLdU44aGluQmR1aENfSDRJekQ4c3Y2cDVCSERtaExFSzlTOTdCVnlmSDI2QmZCUXRCU0NJNDdrazk1a1BubzRXZXhUSjN0WEpVZ2xybkZFQnRlcW5SUmhYbFBsRGJncEJHYjBiTDhSYjQyaGlRUTRwUWZoSDVZcTN5RmJ0U2x6MU5wRkJROFBWa0k5czd0Uk1ZN1U4Yjd4QVFVYy1uVQ?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-10-31T09:53:10.719590+00:00",
-    "id": "meme_20261031_1",
-    "date": "2026-10-31",
+    "template_fetched_at": "2026-11-01T10:43:55.285867+00:00",
+    "id": "meme_20261101_1",
+    "date": "2026-11-01",
     "attempt": 1,
-    "image_path": "generated/meme_20261031_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261031_1.jpg",
-    "telegram_message_id": 13
+    "image_path": "generated/meme_20261101_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261101_1.jpg",
+    "telegram_message_id": 14
   },
   "approved_candidate": null
 }
