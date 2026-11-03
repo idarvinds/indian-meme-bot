@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-03",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Cricket series win despite final match loss",
-    "category": "sports_gaming",
-    "why_relevant": "Reflects the recent India vs New Zealand T20 series news where India lost the final match but still clinched the overall series.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMihwJBVV95cUxOV0Z2QU5URzdyWFdKTHU0QWtGdXpFNXdZVWtieXRfNTlOSk5MT1QwVzAybTFiTlNXT1ZwUm12azRlZ0lXNjJudWoweTY0R01hVU9fWG9PU1piOTFudWI5TEE0VG1mQWFPNXVLdU44aGluQmR1aENfSDRJekQ4c3Y2cDVCSERtaExFSzlTOTdCVnlmSDI2QmZCUXRCU0NJNDdrazk1a1BubzRXZXhUSjN0WEpVZ2xybkZFQnRlcW5SUmhYbFBsRGJncEJHYjBiTDhSYjQyaGlRUTRwUWZoSDVZcTN5RmJ0U2x6MU5wRkJROFBWa0k5czd0Uk1ZN1U4Yjd4QVFVYy1uVQ?oc=5",
+    "topic": "Massive demand for India Pakistan cricket match tickets",
+    "category": "sports",
+    "why_relevant": "The massive craze for securing tickets for the India Pakistan match mirrors the impossible odds of trying to get a seat.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOXN4MjBRNEJxWHMtMTRMVk1XT2tBQmlzNmZGTk5fNkdmbUVScTNGV1BQYnR0YnVGaE5JUWJFSEFINGV3M2paMEJfbnJINkZ0WHVubnRFbWZ2UzNLamJFTTJzZFN3TTFHTnZDaFlkSEs2QXhWYlVMNTlkSGJUZHpkSEd2ck5XTUwzLVhTSmJRYmRGQ1NJajNvS0RPTm5sRG5CYVRHN3lIakR2TjZOQ2FMX05zT0pWelB0UjlZVGFsREhpQdIBzwFBVV95cUxOM0ZjSVRrTU02aXpfZ2Q1aU9jWE8xakZzclRldEJxU21aSnNuX2lpLUtzaV9DaFRIWURhVTNUOE9MTE14Ti15V0tuUldFNmUtUVZUVnc4YUVlTEFWN3ZaZEJadkVTWjFVckk1N0t4aWpDVk51UExQdUdjUlRyUGFCS3FSNkM4eTUxMHVveUNteHBpSU14dVE5WmpjWllUX2hrclRHdGVhWk1tM1E2dTdfNnNCUXdNMWxyYVhWR3JhT2wyTDJxZ1JZZUFhUXBZYlk?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Last match haar gaye!",
-      "Series toh phir bhi humne hi jeeti hai!"
+      "Trying to book India Pak match tickets",
+      "Miracle se bhi upar kuch chahiye"
     ],
-    "caption": "Jab final match mein haar jao par series already safe ho! 'Series toh apun ich jeeta hai!'",
-    "source_id": "news_17",
+    "caption": "Ticket milna matlab ek alag level ka miracle! Good luck everyone.",
+    "source_id": "news_25",
     "safety_score": 10,
-    "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOV0Z2QU5URzdyWFdKTHU0QWtGdXpFNXdZVWtieXRfNTlOSk5MT1QwVzAybTFiTlNXT1ZwUm12azRlZ0lXNjJudWoweTY0R01hVU9fWG9PU1piOTFudWI5TEE0VG1mQWFPNXVLdU44aGluQmR1aENfSDRJekQ4c3Y2cDVCSERtaExFSzlTOTdCVnlmSDI2QmZCUXRCU0NJNDdrazk1a1BubzRXZXhUSjN0WEpVZ2xybkZFQnRlcW5SUmhYbFBsRGJncEJHYjBiTDhSYjQyaGlRUTRwUWZoSDVZcTN5RmJ0U2x6MU5wRkJROFBWa0k5czd0Uk1ZN1U4Yjd4QVFVYy1uVQ?oc=5",
+    "relatability_score": 10,
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOXN4MjBRNEJxWHMtMTRMVk1XT2tBQmlzNmZGTk5fNkdmbUVScTNGV1BQYnR0YnVGaE5JUWJFSEFINGV3M2paMEJfbnJINkZ0WHVubnRFbWZ2UzNLamJFTTJzZFN3TTFHTnZDaFlkSEs2QXhWYlVMNTlkSGJUZHpkSEd2ck5XTUwzLVhTSmJRYmRGQ1NJajNvS0RPTm5sRG5CYVRHN3lIakR2TjZOQ2FMX05zT0pWelB0UjlZVGFsREhpQdIBzwFBVV95cUxOM0ZjSVRrTU02aXpfZ2Q1aU9jWE8xakZzclRldEJxU21aSnNuX2lpLUtzaV9DaFRIWURhVTNUOE9MTE14Ti15V0tuUldFNmUtUVZUVnc4YUVlTEFWN3ZaZEJadkVTWjFVckk1N0t4aWpDVk51UExQdUdjUlRyUGFCS3FSNkM4eTUxMHVveUNteHBpSU14dVE5WmpjWllUX2hrclRHdGVhWk1tM1E2dTdfNnNCUXdNMWxyYVhWR3JhT2wyTDJxZ1JZZUFhUXBZYlk?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-11-01T10:43:55.285867+00:00",
-    "id": "meme_20261101_1",
-    "date": "2026-11-01",
+    "template_fetched_at": "2026-11-03T11:13:39.414099+00:00",
+    "id": "meme_20261103_1",
+    "date": "2026-11-03",
     "attempt": 1,
-    "image_path": "generated/meme_20261101_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261101_1.jpg",
-    "telegram_message_id": 14
+    "image_path": "generated/meme_20261103_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261103_1.jpg",
+    "telegram_message_id": 15
   },
   "approved_candidate": null
 }
