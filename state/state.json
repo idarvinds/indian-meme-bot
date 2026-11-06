@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-06",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Stock Market Five Day Winning Streak",
-    "category": "money_shopping",
-    "why_relevant": "The stock market news reported Sensex rising for five consecutive days, which is a great relatable moment for retail investors celebrating portfolio gains.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMigwJBVV95cUxOVXhWaU9EcWdSOTFWS1hjX3hFLVlnRTU4Z25IckxEaW00MF9tblJ4N3dLOThhc1Zrcm8wb3ZBZGpQdGtUdXRDRk01aDZXQk52ai1VRUdid2MyVnNCU21ScXRDczdhUXFPWkJTemp4SUJnWjV1Z25va3hvZ1RUM0FMWnBnb2dvaEUxazVGZTFtSDc5UzNoRk02akdKOUtPbWsyeGU2cGpOc1BKakhvRVdaZmlwT1dQNG55WXZzTHRrekZHOVpFSGJVaVlzbXVBOWY0a0lXMDhuNzJYeDhISVJGb1ZFS09nOGN0cm1CdWpmRExRMjNjWV96eUhoQWU4ZTdQUjFv0gGIAkFVX3lxTE5ZcUtsc3ZCZkkycjhhNUV6TWVXUWduXzJfQlZPYWxWN2dkNGRfTk1YZUJ4RVc1S0toUVVoYi1DZGNfNERwOGFCVTQ4Y08xem9sdjVHcWhqMGRIdVN5b2FFNEdwblJwdlRxcU5BalU1V1l5VU5fWmdnRkdSS0RSTzJCdXFSSk11dlp5LWJKeXhrbFRIMkQwV3g2clJHV1A5a0liRUtzckxpZ01FSkFiUEJFNVAzMUl6ZTE1S3hNSGstS2RCNDF5Y1VOOVF3VVlMT2pvUy1VaDI3blVqQzJDSWJiQi1rQ095VG05Sk5VemVBeG9iOEhpZWFiSTAzSGUtYUdFSlA2TmdGYw?oc=5",
+    "topic": "Delhi air pollution weather quips",
+    "category": "lifestyle",
+    "why_relevant": "The Supreme Court made a witty remark about Delhi's severe pollution and weather conditions, which resonates deeply with everyday life in the capital.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc3ZlalVRTnJFNzNrd1RNdi1BbzUyT1hfc0VpcnU4TmZFNE1jQ2lWaUNwU1ROQ2ZiWWJPQk9kb2NFZ2xOZ1BBcTF3dHRTOEI0NlRDaG43UWd5bXkyN3dERjY3M3J4bTMzY29FZzhieTYzcm1heHdORHZNYkt4N0NRc28yeU9yNWlKeVVBX0ZONmEtOFBzS2tncm5meE9GS0tGVndCQmgtVzVPeE0?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Portfolio red for months",
-      "Sensex rises for five straight days"
+      "Enjoying the pleasant Delhi weather outside",
+      "Realizing it is just heavy smog and pollution"
     ],
-    "caption": "Market green for five days straight and suddenly everyone is an investment guru! 'Bhai tip dena zara!'",
-    "source_id": "news_15",
+    "caption": "Delhi weather reporting be like: Fresh air optional! #DelhiPollution #WeatherVibes",
+    "source_id": "news_2",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVXhWaU9EcWdSOTFWS1hjX3hFLVlnRTU4Z25IckxEaW00MF9tblJ4N3dLOThhc1Zrcm8wb3ZBZGpQdGtUdXRDRk01aDZXQk52ai1VRUdid2MyVnNCU21ScXRDczdhUXFPWkJTemp4SUJnWjV1Z25va3hvZ1RUM0FMWnBnb2dvaEUxazVGZTFtSDc5UzNoRk02akdKOUtPbWsyeGU2cGpOc1BKakhvRVdaZmlwT1dQNG55WXZzTHRrekZHOVpFSGJVaVlzbXVBOWY0a0lXMDhuNzJYeDhISVJGb1ZFS09nOGN0cm1CdWpmRExRMjNjWV96eUhoQWU4ZTdQUjFv0gGIAkFVX3lxTE5ZcUtsc3ZCZkkycjhhNUV6TWVXUWduXzJfQlZPYWxWN2dkNGRfTk1YZUJ4RVc1S0toUVVoYi1DZGNfNERwOGFCVTQ4Y08xem9sdjVHcWhqMGRIdVN5b2FFNEdwblJwdlRxcU5BalU1V1l5VU5fWmdnRkdSS0RSTzJCdXFSSk11dlp5LWJKeXhrbFRIMkQwV3g2clJHV1A5a0liRUtzckxpZ01FSkFiUEJFNVAzMUl6ZTE1S3hNSGstS2RCNDF5Y1VOOVF3VVlMT2pvUy1VaDI3blVqQzJDSWJiQi1rQ095VG05Sk5VemVBeG9iOEhpZWFiSTAzSGUtYUdFSlA2TmdGYw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc3ZlalVRTnJFNzNrd1RNdi1BbzUyT1hfc0VpcnU4TmZFNE1jQ2lWaUNwU1ROQ2ZiWWJPQk9kb2NFZ2xOZ1BBcTF3dHRTOEI0NlRDaG43UWd5bXkyN3dERjY3M3J4bTMzY29FZzhieTYzcm1heHdORHZNYkt4N0NRc28yeU9yNWlKeVVBX0ZONmEtOFBzS2tncm5meE9GS0tGVndCQmgtVzVPeE0?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-11-04T11:25:45.992276+00:00",
-    "id": "meme_20261104_1",
-    "date": "2026-11-04",
+    "template_fetched_at": "2026-11-06T11:21:39.794085+00:00",
+    "id": "meme_20261106_1",
+    "date": "2026-11-06",
     "attempt": 1,
-    "image_path": "generated/meme_20261104_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261104_1.jpg",
-    "telegram_message_id": 16
+    "image_path": "generated/meme_20261106_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261106_1.jpg",
+    "telegram_message_id": 17
   },
   "approved_candidate": null
 }
