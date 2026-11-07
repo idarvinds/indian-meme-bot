@@ -1,36 +1,36 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Delhi air pollution weather quips",
+    "topic": "Delhi air quality on the eve of Diwali",
     "category": "lifestyle",
-    "why_relevant": "The Supreme Court made a witty remark about Delhi's severe pollution and weather conditions, which resonates deeply with everyday life in the capital.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc3ZlalVRTnJFNzNrd1RNdi1BbzUyT1hfc0VpcnU4TmZFNE1jQ2lWaUNwU1ROQ2ZiWWJPQk9kb2NFZ2xOZ1BBcTF3dHRTOEI0NlRDaG43UWd5bXkyN3dERjY3M3J4bTMzY29FZzhieTYzcm1heHdORHZNYkt4N0NRc28yeU9yNWlKeVVBX0ZONmEtOFBzS2tncm5meE9GS0tGVndCQmgtVzVPeE0?oc=5",
-    "template_id": "181913649",
+    "why_relevant": "Relates directly to the news headline about Delhi becoming the world's most polluted major city right before Diwali, which is a major seasonal talking point.\nTemplate: This Is Fine\nSource: https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDY21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5",
+    "template_id": "55311130",
     "panel_text": [
-      "Enjoying the pleasant Delhi weather outside",
-      "Realizing it is just heavy smog and pollution"
+      "Stepping outside in Delhi on Diwali eve",
+      "Everything is fine, just extra smoky chai!"
     ],
-    "caption": "Delhi weather reporting be like: Fresh air optional! #DelhiPollution #WeatherVibes",
-    "source_id": "news_2",
+    "caption": "Delhi air quality hits peak levels right before Diwali... Me opening my window: 'Chai ka dhuaan hai ya smog?'",
+    "source_id": "news_8",
     "safety_score": 10,
-    "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc3ZlalVRTnJFNzNrd1RNdi1BbzUyT1hfc0VpcnU4TmZFNE1jQ2lWaUNwU1ROQ2ZiWWJPQk9kb2NFZ2xOZ1BBcTF3dHRTOEI0NlRDaG43UWd5bXkyN3dERjY3M3J4bTMzY29FZzhieTYzcm1heHdORHZNYkt4N0NRc28yeU9yNWlKeVVBX0ZONmEtOFBzS2tncm5meE9GS0tGVndCQmgtVzVPeE0?oc=5",
+    "relatability_score": 10,
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDY21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5",
     "template": {
-      "id": "181913649",
-      "name": "Drake Hotline Bling",
-      "image_url": "https://i.imgflip.com/30b1gx.jpg",
+      "id": "55311130",
+      "name": "This Is Fine",
+      "image_url": "https://i.imgflip.com/wxica.jpg",
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-11-06T11:21:39.794085+00:00",
-    "id": "meme_20261106_1",
-    "date": "2026-11-06",
+    "template_fetched_at": "2026-11-07T10:35:47.849303+00:00",
+    "id": "meme_20261107_1",
+    "date": "2026-11-07",
     "attempt": 1,
-    "image_path": "generated/meme_20261106_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261106_1.jpg",
-    "telegram_message_id": 17
+    "image_path": "generated/meme_20261107_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261107_1.jpg",
+    "telegram_message_id": 18
   },
   "approved_candidate": null
 }
