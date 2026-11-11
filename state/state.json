@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-11",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Sensex and Nifty breaking winning streak during Muhurat Trading",
-    "category": "finance_markets",
-    "why_relevant": "Reflects the recent market news headline about the Sensex and Nifty breaking their multi-year winning streak during Muhurat Trading on Diwali.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGtNRWZHeUR4WXU3Zmp6clV5VkFVMnR1aDhjNmotZHk3SS02MXMyYTJnM3BZeTQ2R2d1LTBlaDlVeGs2UFMweWQ3TXQwbjBnTHpwT3Q4RnhOdFRJMjhzRnY2LXJRbFgtMWxud2dRdEJlZnkxTW9rUy1sQy1RRHBKUmFNSjBzQXRCRF9ubFphRWtkcEhfTGo0SU8waGhLTmFpXzI2QVpWMEJ2bEE3QkQzeFBVZ1JmNjdLWkwwSHlTMDRhdnc?oc=5",
+    "topic": "Stock market gains and portfolio excitement",
+    "category": "money_shopping",
+    "why_relevant": "Reflects the market news headline about Sensex ending high and Nifty rising, which every retail investor relates to when checking their portfolio green days.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOG55UEd1cnFnWm85cmhKUGtyXzRTVkhweG9Cd3J2RlFuSndxVVVaaTlia1dpTUYzekFEbGRoWFNrUXRXS1RCNDYzUzRZZ1JmRG9uQTdCRmJmLVlZQnFsdTRnZThoVmVUOXZRNnpsUS10OEtyeVpPQTRJcTlmVlBFN21LTU9jaER4cGNiS3lodUxKSHVrN0htRHA0OUMzUDRJUEhvcGE4b3RISmd0YnYycEhLQmFUOEYzNzhzRi1kT1BSNEpGdTRaZkhNWU4zcV9nczBuVFJmSE5qWVQ4MlFkQzRyU1BxVlFK0gHuAUFVX3lxTE1xMEVDVE1GYUoxZVgxRVlaMjVaQ1NBcmM1R0MtZXExSzRHV196M09kTVNXN0VMMGJJcXVIVHdKdW9JLXJfZl92ZWtoTExTVTNST3J4em8xZi1NTXVsWl9qSVBDSTRKaWhseFo4QmZ3TThJWVZ1ODIzUkNvVlROcmE0dnNVTHRMdEFQVThkSG5OM0l0cjhvajRYVDFRWlc1MzFlS0VxU3NHQ21pZFVuOUJFUkhlQ0owb3pLbDZMbnZ2TmtSeGl6VkF5Vk02V1VvUWFiTHd0NEpwQS1rR2RuYVAyUHh0VXlnR2Z4MGhrQVE?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Expecting massive profits in Muhurat trading",
-      "Market closes flat breaking the winning streak"
+      "Red portfolio on Monday",
+      "Sensex up points and green candles everywhere"
     ],
-    "caption": "Portfolio dekh ke dil hi toot gaya! Sahi time pe market ne bhi mood badal liya. 📉🥲 #MuhuratTrading #MarketDiwali",
-    "source_id": "news_12",
+    "caption": "Market green hote hi aisi khushi hoti hai! Tag that friend who checks portfolio every five minutes.",
+    "source_id": "news_6",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGtNRWZHeUR4WXU3Zmp6clV5VkFVMnR1aDhjNmotZHk3SS02MXMyYTJnM3BZeTQ2R2d1LTBlaDlVeGs2UFMweWQ3TXQwbjBnTHpwT3Q4RnhOdFRJMjhzRnY2LXJRbFgtMWxud2dRdEJlZnkxTW9rUy1sQy1RRHBKUmFNSjBzQXRCRF9ubFphRWtkcEhfTGo0SU8waGhLTmFpXzI2QVpWMEJ2bEE3QkQzeFBVZ1JmNjdLWkwwSHlTMDRhdnc?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOG55UEd1cnFnWm85cmhKUGtyXzRTVkhweG9Cd3J2RlFuSndxVVVaaTlia1dpTUYzekFEbGRoWFNrUXRXS1RCNDYzUzRZZ1JmRG9uQTdCRmJmLVlZQnFsdTRnZThoVmVUOXZRNnpsUS10OEtyeVpPQTRJcTlmVlBFN21LTU9jaER4cGNiS3lodUxKSHVrN0htRHA0OUMzUDRJUEhvcGE4b3RISmd0YnYycEhLQmFUOEYzNzhzRi1kT1BSNEpGdTRaZkhNWU4zcV9nczBuVFJmSE5qWVQ4MlFkQzRyU1BxVlFK0gHuAUFVX3lxTE1xMEVDVE1GYUoxZVgxRVlaMjVaQ1NBcmM1R0MtZXExSzRHV196M09kTVNXN0VMMGJJcXVIVHdKdW9JLXJfZl92ZWtoTExTVTNST3J4em8xZi1NTXVsWl9qSVBDSTRKaWhseFo4QmZ3TThJWVZ1ODIzUkNvVlROcmE0dnNVTHRMdEFQVThkSG5OM0l0cjhvajRYVDFRWlc1MzFlS0VxU3NHQ21pZFVuOUJFUkhlQ0owb3pLbDZMbnZ2TmtSeGl6VkF5Vk02V1VvUWFiTHd0NEpwQS1rR2RuYVAyUHh0VXlnR2Z4MGhrQVE?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-11-08T10:40:31.722158+00:00",
-    "id": "meme_20261108_1",
-    "date": "2026-11-08",
+    "template_fetched_at": "2026-11-11T11:21:42.778550+00:00",
+    "id": "meme_20261111_1",
+    "date": "2026-11-11",
     "attempt": 1,
-    "image_path": "generated/meme_20261108_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261108_1.jpg",
-    "telegram_message_id": 19
+    "image_path": "generated/meme_20261111_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261111_1.jpg",
+    "telegram_message_id": 20
   },
   "approved_candidate": null
 }
