@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Indian cricket team facing the traditional Haka welcome in New Zealand",
-    "why_relevant": "The Indian cricket team touring New Zealand received a dramatic traditional Haka welcome, which is a great lighthearted cultural moment for cricket fans.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVWs5N2RhaHlGSEptWG1mY1RBWnZWNThyakpMZW13R3FMQXJlTnFyd3h4dUhaMlVvQXgtYW1fY2E1aEsyY2twU0tyWUdzZUdOUF92RXdyZ05TZVliNUZqTUN3bkV2Yk15d3IwV2RiS2ZUUi04YW5oWVAwQmVqMFo1b1RaVFZYTEd2SVlxQmRJV0QwUDFLemxrTkZyVlo2dDk1eEFLUjg2LUVTdjE4OGhMZWlqMEI1M3B3MmZaMUJTQmtfNzBuYW4yVUotbDRQeENOTkFxd0lyN2lEQ0tNUmN4UNIB5gFBVV95cUxOY2hzNFQ1Sll1NE1jbG1lOG5CNWNXdW4tMXh1TDI3cjktbkNOM19MX3RUaTZNMmVTOFhLQmpDMWk5LXN1S2VTWmFjOUU0T081aHRkakV4V2JSQm9lcFBDaFhrM3ZYWTBXRHdwY3ltMHB6WFJuVHVMbnFQa0dJNVJjSFNLUW9ueFpQRnZkdUJjN1FfZVdwM0otc1BwZ1BPdTNvSG5uSE50WGxHY0hwYmg3bHBaMjdIWW9FVGNtWk5TcWkyUy1yY0ZJTG1JWjN6Q216RVhMNkRZYW9ReGhoMkNxeVFmdDFBZw?oc=5",
-    "category": "sports_cricket",
+    "topic": "Microsoft working urgently to fix tech outages",
+    "category": "tech_startup",
+    "why_relevant": "Tech outages affect everyone, making the scramble to fix server bugs deeply relatable to Indian IT professionals.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMilAFBVV95cUxNVVNnLWh2MFhsanVaRkl3ZkFlNUphQnJ1RUVOMEw4MHRsVmJkOEJTcUJyWVFRV2ZZZ3VMOG5CLUo2MFZGQmRfMnV0ZlZNNnEwUDVGN0lkMkgyUzJaVzVkWmFBMF9HenMzbFlURHpZeFBpRC1Ta0FxeDJZLXYwSnN3QXlNS0dfd0hFSG42OE9nUU1uajZJ0gGaAUFVX3lxTFB5SU5lc3F0THNKSHFxM2dXRTU0MW9WTnhrR2RmOUd6TV8yakVwR05wQkxuaV9Pd19qNmo1ekp4NEpvSWhZMjNiM0hvOGVGRDlOQ09VZlNjRTF2dk9ueF9ZdWdXLWxZaklwZW1WZUJmMklMNlJNcS1rb1JlQjc5QzkwdnFITmZFcUQ3TEY3a2Q5S1MyVWZQNDVCVkE?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Normal opponent team warm up in ground",
-      "New Zealand welcoming team with full intensity Haka"
+      "Servers crashing right before Friday evening login",
+      "IT team working urgently over weekend to fix bugs"
     ],
-    "caption": "Jab opponent match se pehle full energy Haka start karde! India tour vibes hits different.",
-    "source_id": "news_24",
+    "caption": "Friday evening plans cancelled because servers decided to take an unscheduled vacation. Relatable much? #ITLife #WeekendVibes",
+    "source_id": "news_4",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVWs5N2RhaHlGSEptWG1mY1RBWnZWNThyakpMZW13R3FMQXJlTnFyd3h4dUhaMlVvQXgtYW1fY2E1aEsyY2twU0tyWUdzZUdOUF92RXdyZ05TZVliNUZqTUN3bkV2Yk15d3IwV2RiS2ZUUi04YW5oWVAwQmVqMFo1b1RaVFZYTEd2SVlxQmRJV0QwUDFLemxrTkZyVlo2dDk1eEFLUjg2LUVTdjE4OGhMZWlqMEI1M3B3MmZaMUJTQmtfNzBuYW4yVUotbDRQeENOTkFxd0lyN2lEQ0tNUmN4UNIB5gFBVV95cUxOY2hzNFQ1Sll1NE1jbG1lOG5CNWNXdW4tMXh1TDI3cjktbkNOM19MX3RUaTZNMmVTOFhLQmpDMWk5LXN1S2VTWmFjOUU0T081aHRkakV4V2JSQm9lcFBDaFhrM3ZYWTBXRHdwY3ltMHB6WFJuVHVMbnFQa0dJNVJjSFNLUW9ueFpQRnZkdUJjN1FfZVdwM0otc1BwZ1BPdTNvSG5uSE50WGxHY0hwYmg3bHBaMjdIWW9FVGNtWk5TcWkyUy1yY0ZJTG1JWjN6Q216RVhMNkRZYW9ReGhoMkNxeVFmdDFBZw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVVNnLWh2MFhsanVaRkl3ZkFlNUphQnJ1RUVOMEw4MHRsVmJkOEJTcUJyWVFRV2ZZZ3VMOG5CLUo2MFZGQmRfMnV0ZlZNNnEwUDVGN0lkMkgyUzJaVzVkWmFBMF9HenMzbFlURHpZeFBpRC1Ta0FxeDJZLXYwSnN3QXlNS0dfd0hFSG42OE9nUU1uajZJ0gGaAUFVX3lxTFB5SU5lc3F0THNKSHFxM2dXRTU0MW9WTnhrR2RmOUd6TV8yakVwR05wQkxuaV9Pd19qNmo1ekp4NEpvSWhZMjNiM0hvOGVGRDlOQ09VZlNjRTF2dk9ueF9ZdWdXLWxZaklwZW1WZUJmMklMNlJNcS1rb1JlQjc5QzkwdnFITmZFcUQ3TEY3a2Q5S1MyVWZQNDVCVkE?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-11-12T11:40:57.658614+00:00",
-    "id": "meme_20261112_1",
-    "date": "2026-11-12",
+    "template_fetched_at": "2026-11-13T11:24:57.045608+00:00",
+    "id": "meme_20261113_1",
+    "date": "2026-11-13",
     "attempt": 1,
-    "image_path": "generated/meme_20261112_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261112_1.jpg",
-    "telegram_message_id": 21
+    "image_path": "generated/meme_20261113_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261113_1.jpg",
+    "telegram_message_id": 22
   },
   "approved_candidate": null
 }
