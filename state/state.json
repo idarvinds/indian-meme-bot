@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Microsoft working urgently to fix tech outages",
+    "topic": "Microsoft global tech outage and restoration",
     "category": "tech_startup",
-    "why_relevant": "Tech outages affect everyone, making the scramble to fix server bugs deeply relatable to Indian IT professionals.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMilAFBVV95cUxNVVNnLWh2MFhsanVaRkl3ZkFlNUphQnJ1RUVOMEw4MHRsVmJkOEJTcUJyWVFRV2ZZZ3VMOG5CLUo2MFZGQmRfMnV0ZlZNNnEwUDVGN0lkMkgyUzJaVzVkWmFBMF9HenMzbFlURHpZeFBpRC1Ta0FxeDJZLXYwSnN3QXlNS0dfd0hFSG42OE9nUU1uajZJ0gGaAUFVX3lxTFB5SU5lc3F0THNKSHFxM2dXRTU0MW9WTnhrR2RmOUd6TV8yakVwR05wQkxuaV9Pd19qNmo1ekp4NEpvSWhZMjNiM0hvOGVGRDlOQ09VZlNjRTF2dk9ueF9ZdWdXLWxZaklwZW1WZUJmMklMNlJNcS1rb1JlQjc5QzkwdnFITmZFcUQ3TEY3a2Q5S1MyVWZQNDVCVkE?oc=5",
+    "why_relevant": "The recent global Microsoft outage and subsequent service restoration has everyone joking about how sudden tech glitches disrupt work and force unplanned breaks.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTdIB6gFBVV95cUxOVFhWTENnSVFVSXp3QXYyRTRlNjZaVklTckg3N2VIWk84cmZreXJkVlNrcGZqNmw0bHQxZVNwUTJZMWRPUTJIeWxlOUZtdUdmQTUxcVdvOWpXOGtWYzBNYzFpSld4ZWxkT29GM29mUjRmQ3lTM2VrYmFhLXRYd0t2VUUzaVZqSDNLSHFNdUpENGFoNzVZNUNoRnRDc1ZZT1RSaXRReUE1YkNjemg5c2dFOUM1QVR6bEFlRkF0b0ZUdi1KeWpsWXloZEc1V2JkWm5QNDJsLXg1czdpZjVUMDBkUFAxQzdjSlJuOVE?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Servers crashing right before Friday evening login",
-      "IT team working urgently over weekend to fix bugs"
+      "Working peacefully when Microsoft system crashes",
+      "Realizing boss has to grant unplanned leave"
     ],
-    "caption": "Friday evening plans cancelled because servers decided to take an unscheduled vacation. Relatable much? #ITLife #WeekendVibes",
-    "source_id": "news_4",
+    "caption": "Microsoft outage fixing everything just when you wanted a break... Office workers right now: 'Yeh kya naya drama hai!'",
+    "source_id": "news_3",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVVNnLWh2MFhsanVaRkl3ZkFlNUphQnJ1RUVOMEw4MHRsVmJkOEJTcUJyWVFRV2ZZZ3VMOG5CLUo2MFZGQmRfMnV0ZlZNNnEwUDVGN0lkMkgyUzJaVzVkWmFBMF9HenMzbFlURHpZeFBpRC1Ta0FxeDJZLXYwSnN3QXlNS0dfd0hFSG42OE9nUU1uajZJ0gGaAUFVX3lxTFB5SU5lc3F0THNKSHFxM2dXRTU0MW9WTnhrR2RmOUd6TV8yakVwR05wQkxuaV9Pd19qNmo1ekp4NEpvSWhZMjNiM0hvOGVGRDlOQ09VZlNjRTF2dk9ueF9ZdWdXLWxZaklwZW1WZUJmMklMNlJNcS1rb1JlQjc5QzkwdnFITmZFcUQ3TEY3a2Q5S1MyVWZQNDVCVkE?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTdIB6gFBVV95cUxOVFhWTENnSVFVSXp3QXYyRTRlNjZaVklTckg3N2VIWk84cmZreXJkVlNrcGZqNmw0bHQxZVNwUTJZMWRPUTJIeWxlOUZtdUdmQTUxcVdvOWpXOGtWYzBNYzFpSld4ZWxkT29GM29mUjRmQ3lTM2VrYmFhLXRYd0t2VUUzaVZqSDNLSHFNdUpENGFoNzVZNUNoRnRDc1ZZT1RSaXRReUE1YkNjemg5c2dFOUM1QVR6bEFlRkF0b0ZUdi1KeWpsWXloZEc1V2JkWm5QNDJsLXg1czdpZjVUMDBkUFAxQzdjSlJuOVE?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-11-13T11:24:57.045608+00:00",
-    "id": "meme_20261113_1",
-    "date": "2026-11-13",
+    "template_fetched_at": "2026-11-14T10:47:18.598446+00:00",
+    "id": "meme_20261114_1",
+    "date": "2026-11-14",
     "attempt": 1,
-    "image_path": "generated/meme_20261113_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261113_1.jpg",
-    "telegram_message_id": 22
+    "image_path": "generated/meme_20261114_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261114_1.jpg",
+    "telegram_message_id": 23
   },
   "approved_candidate": null
 }
