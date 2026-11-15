@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Microsoft global tech outage and restoration",
-    "category": "tech_startup",
-    "why_relevant": "The recent global Microsoft outage and subsequent service restoration has everyone joking about how sudden tech glitches disrupt work and force unplanned breaks.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTdIB6gFBVV95cUxOVFhWTENnSVFVSXp3QXYyRTRlNjZaVklTckg3N2VIWk84cmZreXJkVlNrcGZqNmw0bHQxZVNwUTJZMWRPUTJIeWxlOUZtdUdmQTUxcVdvOWpXOGtWYzBNYzFpSld4ZWxkT29GM29mUjRmQ3lTM2VrYmFhLXRYd0t2VUUzaVZqSDNLSHFNdUpENGFoNzVZNUNoRnRDc1ZZT1RSaXRReUE1YkNjemg5c2dFOUM1QVR6bEFlRkF0b0ZUdi1KeWpsWXloZEc1V2JkWm5QNDJsLXg1czdpZjVUMDBkUFAxQzdjSlJuOVE?oc=5",
+    "topic": "India U19 cricket team thrilling last ball win",
+    "category": "sports",
+    "why_relevant": "Reflects the nail-biting last-ball cricket finish that every Indian fan relates to during high-pressure matches.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHhuamJ0Z21XVHpjYlZlQXVFWVFoS3JRRGl4LU9JQkRia1VxaHM1VDFJN2NwcmJaZk1zLURyaGpORlI1clZJVlZORmNmMGthWlh2bk9WS0FiOVYxSmF2NERZVDk2RlpWQlM4MkJxdnA5elFCT2o3alQzU3hac1FYb2pxeW9ZcENuTUtlQnJoSy1uUFNhVEFVb1JOdnhvMUdX?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Working peacefully when Microsoft system crashes",
-      "Realizing boss has to grant unplanned leave"
+      "Watching normal cricket match calmly",
+      "Watching last ball thriller finish"
     ],
-    "caption": "Microsoft outage fixing everything just when you wanted a break... Office workers right now: 'Yeh kya naya drama hai!'",
-    "source_id": "news_3",
+    "caption": "Last ball thrills give us heart attacks every single time! Classic India match moments. #Cricket #BleedBlue",
+    "source_id": "news_23",
     "safety_score": 10,
-    "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTdIB6gFBVV95cUxOVFhWTENnSVFVSXp3QXYyRTRlNjZaVklTckg3N2VIWk84cmZreXJkVlNrcGZqNmw0bHQxZVNwUTJZMWRPUTJIeWxlOUZtdUdmQTUxcVdvOWpXOGtWYzBNYzFpSld4ZWxkT29GM29mUjRmQ3lTM2VrYmFhLXRYd0t2VUUzaVZqSDNLSHFNdUpENGFoNzVZNUNoRnRDc1ZZT1RSaXRReUE1YkNjemg5c2dFOUM1QVR6bEFlRkF0b0ZUdi1KeWpsWXloZEc1V2JkWm5QNDJsLXg1czdpZjVUMDBkUFAxQzdjSlJuOVE?oc=5",
+    "relatability_score": 10,
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHhuamJ0Z21XVHpjYlZlQXVFWVFoS3JRRGl4LU9JQkRia1VxaHM1VDFJN2NwcmJaZk1zLURyaGpORlI1clZJVlZORmNmMGthWlh2bk9WS0FiOVYxSmF2NERZVDk2RlpWQlM4MkJxdnA5elFCT2o3alQzU3hac1FYb2pxeW9ZcENuTUtlQnJoSy1uUFNhVEFVb1JOdnhvMUdX?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-11-14T10:47:18.598446+00:00",
-    "id": "meme_20261114_1",
-    "date": "2026-11-14",
+    "template_fetched_at": "2026-11-15T11:22:38.785039+00:00",
+    "id": "meme_20261115_1",
+    "date": "2026-11-15",
     "attempt": 1,
-    "image_path": "generated/meme_20261114_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261114_1.jpg",
-    "telegram_message_id": 23
+    "image_path": "generated/meme_20261115_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261115_1.jpg",
+    "telegram_message_id": 24
   },
   "approved_candidate": null
 }
