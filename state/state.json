@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-17",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "India U19 cricket team thrilling last ball win",
+    "topic": "MS Dhoni retirement from IPL",
     "category": "sports",
-    "why_relevant": "Reflects the nail-biting last-ball cricket finish that every Indian fan relates to during high-pressure matches.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHhuamJ0Z21XVHpjYlZlQXVFWVFoS3JRRGl4LU9JQkRia1VxaHM1VDFJN2NwcmJaZk1zLURyaGpORlI1clZJVlZORmNmMGthWlh2bk9WS0FiOVYxSmF2NERZVDk2RlpWQlM4MkJxdnA5elFCT2o3alQzU3hac1FYb2pxeW9ZcENuTUtlQnJoSy1uUFNhVEFVb1JOdnhvMUdX?oc=5",
+    "why_relevant": "MS Dhoni retiring from IPL marks the end of an era for Indian cricket, driving massive nostalgia and emotional reactions among fans across the country.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMic0FVX3lxTE1wSnpfOXJKLTdROXpxOVhGdkJZc3JkOE5Iem5ZLS1lR1dyNXNNalp0S0RJM2YyNUhWRDlmYlhwOEdERlkxNXRHRXNuNm5DZVFHZFNOQklKRGFDSDI3SDZoTnh0S1Y2WXNXUDh5UUhEdWZrVWc?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Watching normal cricket match calmly",
-      "Watching last ball thriller finish"
+      "Watching IPL without Thala on the pitch",
+      "Accepting that an absolute era has ended"
     ],
-    "caption": "Last ball thrills give us heart attacks every single time! Classic India match moments. #Cricket #BleedBlue",
-    "source_id": "news_23",
+    "caption": "Thala ne IPL se retirement le liya... ab dil kaise samjhayein? End of an unforgettable era! 💛",
+    "source_id": "news_21",
     "safety_score": 10,
     "relatability_score": 10,
-    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHhuamJ0Z21XVHpjYlZlQXVFWVFoS3JRRGl4LU9JQkRia1VxaHM1VDFJN2NwcmJaZk1zLURyaGpORlI1clZJVlZORmNmMGthWlh2bk9WS0FiOVYxSmF2NERZVDk2RlpWQlM4MkJxdnA5elFCT2o3alQzU3hac1FYb2pxeW9ZcENuTUtlQnJoSy1uUFNhVEFVb1JOdnhvMUdX?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wSnpfOXJKLTdROXpxOVhGdkJZc3JkOE5Iem5ZLS1lR1dyNXNNalp0S0RJM2YyNUhWRDlmYlhwOEdERlkxNXRHRXNuNm5DZVFHZFNOQklKRGFDSDI3SDZoTnh0S1Y2WXNXUDh5UUhEdWZrVWc?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-11-15T11:22:38.785039+00:00",
-    "id": "meme_20261115_1",
-    "date": "2026-11-15",
+    "template_fetched_at": "2026-11-17T12:18:37.537777+00:00",
+    "id": "meme_20261117_1",
+    "date": "2026-11-17",
     "attempt": 1,
-    "image_path": "generated/meme_20261115_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261115_1.jpg",
-    "telegram_message_id": 24
+    "image_path": "generated/meme_20261117_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261117_1.jpg",
+    "telegram_message_id": 25
   },
   "approved_candidate": null
 }
