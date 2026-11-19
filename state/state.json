@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Getting video games delivered instantly via quick commerce apps",
-    "category": "tech_startup",
-    "why_relevant": "Reflects the hilarious trend of getting massive titles like GTA delivered in minutes via quick commerce platforms.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ3RZbGZ1MEFPRlF6RlNXR2I1RDZlYzEtYzNGaWlyZ2FsSkp5dHdjVlV5OHRYZnVHVjl4RUtVYmVTeWtxSzUwNXhES2Jld2s5YnNtZ2xJT1FlS3VRUlNzd3BoTEZWR29XQlhMLTV0ZjJoU2dGM1BkdlFqcm91TzB6YTl0a2xHRTV1c29qQnJEbzZGYXJNX2pEbGIzUl9JcHRseDU4UWtaRlNPbnJBSlhkRTNFdzRFQTlCbTh4VnQwaXVEQUxVLWR3WnZXQ0xOOS0ta0E?oc=5",
+    "topic": "Indian game developers building hits after GTA success",
+    "category": "gaming_pop_culture",
+    "why_relevant": "Indian game developers contributed to major global titles like GTA VI and are now planning original homegrown hits.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNDF3SFE5cFEzRVhoWnh1TXdyOUdzRU55NTJlZk5VTW9WZVBGamwzVWstRkx3VzlIYXRoQnFMWExGTTBfQklaZjJDd2hWMVVhNW9ncC1zQUM2TlotMml4YWkxS3I4am1xVFNNRTNWSTE2NkVhMjJsQklfYUUzSkZIVERqcURuRWhTTjZ4TzQySGNKZVk4bkhUUjQwc2pGaHRFSXFVWDRrcXhqU01ST2V3M2xMUUJYcDBUYU1pQVZaV1U3VW5BYmx6dEUzS3J0eW1VRUE?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Ordering grocery items on quick commerce apps",
-      "Getting heavy video games delivered in minutes instead"
+      "Helping build global open world games",
+      "Making our own indie hit games in India"
     ],
-    "caption": "Quick commerce has truly peaked when snacks and AAA games arrive together! 🎮🛒",
-    "source_id": "news_17",
+    "caption": "Jab apna studio apna blockbuster game banayega! Absolute cinema vibes. 🎮🔥",
+    "source_id": "news_6",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ3RZbGZ1MEFPRlF6RlNXR2I1RDZlYzEtYzNGaWlyZ2FsSkp5dHdjVlV5OHRYZnVHVjl4RUtVYmVTeWtxSzUwNXhES2Jld2s5YnNtZ2xJT1FlS3VRUlNzd3BoTEZWR29XQlhMLTV0ZjJoU2dGM1BkdlFqcm91TzB6YTl0a2xHRTV1c29qQnJEbzZGYXJNX2pEbGIzUl9JcHRseDU4UWtaRlNPbnJBSlhkRTNFdzRFQTlCbTh4VnQwaXVEQUxVLWR3WnZXQ0xOOS0ta0E?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNDF3SFE5cFEzRVhoWnh1TXdyOUdzRU55NTJlZk5VTW9WZVBGamwzVWstRkx3VzlIYXRoQnFMWExGTTBfQklaZjJDd2hWMVVhNW9ncC1zQUM2TlotMml4YWkxS3I4am1xVFNNRTNWSTE2NkVhMjJsQklfYUUzSkZIVERqcURuRWhTTjZ4TzQySGNKZVk4bkhUUjQwc2pGaHRFSXFVWDRrcXhqU01ST2V3M2xMUUJYcDBUYU1pQVZaV1U3VW5BYmx6dEUzS3J0eW1VRUE?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-11-18T12:05:17.558658+00:00",
-    "id": "meme_20261118_1",
-    "date": "2026-11-18",
+    "template_fetched_at": "2026-11-19T11:59:54.109675+00:00",
+    "id": "meme_20261119_1",
+    "date": "2026-11-19",
     "attempt": 1,
-    "image_path": "generated/meme_20261118_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261118_1.jpg",
-    "telegram_message_id": 26
+    "image_path": "generated/meme_20261119_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261119_1.jpg",
+    "telegram_message_id": 27
   },
   "approved_candidate": null
 }
