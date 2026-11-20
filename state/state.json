@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Indian game developers building hits after GTA success",
-    "category": "gaming_pop_culture",
-    "why_relevant": "Indian game developers contributed to major global titles like GTA VI and are now planning original homegrown hits.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNDF3SFE5cFEzRVhoWnh1TXdyOUdzRU55NTJlZk5VTW9WZVBGamwzVWstRkx3VzlIYXRoQnFMWExGTTBfQklaZjJDd2hWMVVhNW9ncC1zQUM2TlotMml4YWkxS3I4am1xVFNNRTNWSTE2NkVhMjJsQklfYUUzSkZIVERqcURuRWhTTjZ4TzQySGNKZVk4bkhUUjQwc2pGaHRFSXFVWDRrcXhqU01ST2V3M2xMUUJYcDBUYU1pQVZaV1U3VW5BYmx6dEUzS3J0eW1VRUE?oc=5",
+    "topic": "Stock Market Rally And Currency Gain",
+    "category": "finance_market",
+    "why_relevant": "Reflects the strong surge in the stock market indices and the massive single-day gain of the currency, making investors thrilled.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFRlRVl2Z3JvQi1qMjV5R1h3WFNwdDJfQTB2bk9pdGh1RFFfdGhPTzRCWjd5cnlFUnZZVFFpSU1mbmFnV0ZRdW1SNDJXOVFqdXVsZ0dfMkR3QmY5UXlrWVIzb25GVl9hMjdPRzRtUC1SQ0c0RWZ3aTdHbHY4UDNteTQyRmFTd21hUmxwZ1hRNXdBQy1HSTlHTTRyTzVUaTFYeXZUQzdqUC1TMTRtNFFiNTNEM0txT24wT2duRFdfSUI4RXBwU195Umpn0gHQAUFVX3lxTFBOamlIUVZ4aTNfVFBtcng1bkd5Y2JaRWNDVUE2RFhfekgweksxOXVTOHAtTDAwWkl2N3Ywd0ZzQjBpRU9sNXdyaHQ1NXlMTWRjRXhYWXBTTE5LSTNwTTRzRjMwa1pSYjBDcUh4Vm4wUGpNakxNTlNSTGxwWVBKTThSQ2JKNHlkY0NFa1g2YjhndFo0M29rYV9raEFFbWdidUxCRmhHLWs0aWpxT0lPLW4xb3JWeDMtQWlJandyaGwzdWRJT2RzRm4xM1V5ZTBUVmI?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Helping build global open world games",
-      "Making our own indie hit games in India"
+      "Red portfolio on Monday",
+      "Sensex jumping and currency climbing"
     ],
-    "caption": "Jab apna studio apna blockbuster game banayega! Absolute cinema vibes. 🎮🔥",
-    "source_id": "news_6",
+    "caption": "Portfolios turning green after a massive market rally is pure therapy! #StockMarket #TradingLife",
+    "source_id": "news_13",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNDF3SFE5cFEzRVhoWnh1TXdyOUdzRU55NTJlZk5VTW9WZVBGamwzVWstRkx3VzlIYXRoQnFMWExGTTBfQklaZjJDd2hWMVVhNW9ncC1zQUM2TlotMml4YWkxS3I4am1xVFNNRTNWSTE2NkVhMjJsQklfYUUzSkZIVERqcURuRWhTTjZ4TzQySGNKZVk4bkhUUjQwc2pGaHRFSXFVWDRrcXhqU01ST2V3M2xMUUJYcDBUYU1pQVZaV1U3VW5BYmx6dEUzS3J0eW1VRUE?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFRlRVl2Z3JvQi1qMjV5R1h3WFNwdDJfQTB2bk9pdGh1RFFfdGhPTzRCWjd5cnlFUnZZVFFpSU1mbmFnV0ZRdW1SNDJXOVFqdXVsZ0dfMkR3QmY5UXlrWVIzb25GVl9hMjdPRzRtUC1SQ0c0RWZ3aTdHbHY4UDNteTQyRmFTd21hUmxwZ1hRNXdBQy1HSTlHTTRyTzVUaTFYeXZUQzdqUC1TMTRtNFFiNTNEM0txT24wT2duRFdfSUI4RXBwU195Umpn0gHQAUFVX3lxTFBOamlIUVZ4aTNfVFBtcng1bkd5Y2JaRWNDVUE2RFhfekgweksxOXVTOHAtTDAwWkl2N3Ywd0ZzQjBpRU9sNXdyaHQ1NXlMTWRjRXhYWXBTTE5LSTNwTTRzRjMwa1pSYjBDcUh4Vm4wUGpNakxNTlNSTGxwWVBKTThSQ2JKNHlkY0NFa1g2YjhndFo0M29rYV9raEFFbWdidUxCRmhHLWs0aWpxT0lPLW4xb3JWeDMtQWlJandyaGwzdWRJT2RzRm4xM1V5ZTBUVmI?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-11-19T11:59:54.109675+00:00",
-    "id": "meme_20261119_1",
-    "date": "2026-11-19",
+    "template_fetched_at": "2026-11-20T12:00:32.520208+00:00",
+    "id": "meme_20261120_1",
+    "date": "2026-11-20",
     "attempt": 1,
-    "image_path": "generated/meme_20261119_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261119_1.jpg",
-    "telegram_message_id": 27
+    "image_path": "generated/meme_20261120_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261120_1.jpg",
+    "telegram_message_id": 28
   },
   "approved_candidate": null
 }
