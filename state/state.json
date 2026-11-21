@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Stock Market Rally And Currency Gain",
-    "category": "finance_market",
-    "why_relevant": "Reflects the strong surge in the stock market indices and the massive single-day gain of the currency, making investors thrilled.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFRlRVl2Z3JvQi1qMjV5R1h3WFNwdDJfQTB2bk9pdGh1RFFfdGhPTzRCWjd5cnlFUnZZVFFpSU1mbmFnV0ZRdW1SNDJXOVFqdXVsZ0dfMkR3QmY5UXlrWVIzb25GVl9hMjdPRzRtUC1SQ0c0RWZ3aTdHbHY4UDNteTQyRmFTd21hUmxwZ1hRNXdBQy1HSTlHTTRyTzVUaTFYeXZUQzdqUC1TMTRtNFFiNTNEM0txT24wT2duRFdfSUI4RXBwU195Umpn0gHQAUFVX3lxTFBOamlIUVZ4aTNfVFBtcng1bkd5Y2JaRWNDVUE2RFhfekgweksxOXVTOHAtTDAwWkl2N3Ywd0ZzQjBpRU9sNXdyaHQ1NXlMTWRjRXhYWXBTTE5LSTNwTTRzRjMwa1pSYjBDcUh4Vm4wUGpNakxNTlNSTGxwWVBKTThSQ2JKNHlkY0NFa1g2YjhndFo0M29rYV9raEFFbWdidUxCRmhHLWs0aWpxT0lPLW4xb3JWeDMtQWlJandyaGwzdWRJT2RzRm4xM1V5ZTBUVmI?oc=5",
+    "topic": "Gaming and massive game sales expectations",
+    "category": "gaming",
+    "why_relevant": "Reflects the massive hype and massive sales forecasts surrounding huge upcoming gaming releases like GTA VI.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1NSQWJJLTJXNmpMZjVqRnpXSzJkR2RsNEl5UWFSN3VGRTkzX3Q4LUViREFUZE5RSmROWThSVkMyOWdJMnRqYWhUTjZRZllqVVRBVzZQVkwxMDl6QmNIbTVrYXYteDlnNEM0bFkzVEFhcHVnUE9QbFBDaE8zaXZSZkNaakFsNVhJVGVvWUZmMVBHN0FJa3NnV3BORXlFR2xCeHZGUThMNTNJRHdHeFlFbHA5Z21BV09kUnlaTVlpYzZfNXM?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Red portfolio on Monday",
-      "Sensex jumping and currency climbing"
+      "Pre-ordering games on day one",
+      "Waiting for heavy seasonal sales"
     ],
-    "caption": "Portfolios turning green after a massive market rally is pure therapy! #StockMarket #TradingLife",
-    "source_id": "news_13",
+    "caption": "Jab game ka wait karte karte umar beet jaye par sale ka intezaar kabhi khatam na ho! Relatable ya nahi? #gaming #gamerlife",
+    "source_id": "news_18",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFRlRVl2Z3JvQi1qMjV5R1h3WFNwdDJfQTB2bk9pdGh1RFFfdGhPTzRCWjd5cnlFUnZZVFFpSU1mbmFnV0ZRdW1SNDJXOVFqdXVsZ0dfMkR3QmY5UXlrWVIzb25GVl9hMjdPRzRtUC1SQ0c0RWZ3aTdHbHY4UDNteTQyRmFTd21hUmxwZ1hRNXdBQy1HSTlHTTRyTzVUaTFYeXZUQzdqUC1TMTRtNFFiNTNEM0txT24wT2duRFdfSUI4RXBwU195Umpn0gHQAUFVX3lxTFBOamlIUVZ4aTNfVFBtcng1bkd5Y2JaRWNDVUE2RFhfekgweksxOXVTOHAtTDAwWkl2N3Ywd0ZzQjBpRU9sNXdyaHQ1NXlMTWRjRXhYWXBTTE5LSTNwTTRzRjMwa1pSYjBDcUh4Vm4wUGpNakxNTlNSTGxwWVBKTThSQ2JKNHlkY0NFa1g2YjhndFo0M29rYV9raEFFbWdidUxCRmhHLWs0aWpxT0lPLW4xb3JWeDMtQWlJandyaGwzdWRJT2RzRm4xM1V5ZTBUVmI?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1NSQWJJLTJXNmpMZjVqRnpXSzJkR2RsNEl5UWFSN3VGRTkzX3Q4LUViREFUZE5RSmROWThSVkMyOWdJMnRqYWhUTjZRZllqVVRBVzZQVkwxMDl6QmNIbTVrYXYteDlnNEM0bFkzVEFhcHVnUE9QbFBDaE8zaXZSZkNaakFsNVhJVGVvWUZmMVBHN0FJa3NnV3BORXlFR2xCeHZGUThMNTNJRHdHeFlFbHA5Z21BV09kUnlaTVlpYzZfNXM?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-11-20T12:00:32.520208+00:00",
-    "id": "meme_20261120_1",
-    "date": "2026-11-20",
+    "template_fetched_at": "2026-11-21T11:36:10.349777+00:00",
+    "id": "meme_20261121_1",
+    "date": "2026-11-21",
     "attempt": 1,
-    "image_path": "generated/meme_20261120_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261120_1.jpg",
-    "telegram_message_id": 28
+    "image_path": "generated/meme_20261121_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261121_1.jpg",
+    "telegram_message_id": 29
   },
   "approved_candidate": null
 }
