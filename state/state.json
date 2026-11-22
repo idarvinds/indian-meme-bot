@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Gaming and massive game sales expectations",
-    "category": "gaming",
-    "why_relevant": "Reflects the massive hype and massive sales forecasts surrounding huge upcoming gaming releases like GTA VI.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1NSQWJJLTJXNmpMZjVqRnpXSzJkR2RsNEl5UWFSN3VGRTkzX3Q4LUViREFUZE5RSmROWThSVkMyOWdJMnRqYWhUTjZRZllqVVRBVzZQVkwxMDl6QmNIbTVrYXYteDlnNEM0bFkzVEFhcHVnUE9QbFBDaE8zaXZSZkNaakFsNVhJVGVvWUZmMVBHN0FJa3NnV3BORXlFR2xCeHZGUThMNTNJRHdHeFlFbHA5Z21BV09kUnlaTVlpYzZfNXM?oc=5",
+    "topic": "Anthropic IPO and Claude employee millionaires",
+    "category": "tech_startup",
+    "why_relevant": "Reflects the massive tech industry buzz around startup IPO paydays and employees turning into millionaires overnight.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaHhBWHBNUW00OXBvRGt4NUsyRjRxam5tcGlVR0hRV2Jaa1R1bmZpbnFiVjE3aWk0aE1na0Fmd0xpWXpqemx5UTRGN2VpWHFzc2NVSnpGVHRNRXRwcXdZajZSVnpoLWVYelB6b0VHZEc3ak1XR0E1a3JfYU9RSFFETGpfWjdXdW82VS1aU3pjeVQ2QVRidlpVbG1tSXpRVVdKUzdKUXp2X1RGYVJWVU5zVDVOb0hIemxuUDNoUDRhUjBueGFVZXJiWTdET1RkWWpmS25IZXh2OHRrbDRteF9RTUx5UVIxYjltZGcwREZPc0VwZGQw0gH6AUFVX3lxTFBYbjdwcVZwYnR1aTY4ZUhQTVZRX1ZDSDd5ejVwTjNNRERncF9IT2NRMGxHZ0tXUm1kUWZaRXcxM2pNeTFNeUJQMUdHeFpyUW00TS0taWNyTHZvZ2VVQVhFMGdnSnBXbTNBMGMzTW1xOVhKeVhIY0JvbWx5SnNrdlVudWRuaThTNEw2Q3I2dklNOHJpNENCWmdBZWlJVmZxMTZ3RGkxQnJnOHVrdjlpTFlqS3dTMGZtM1hKYXBNX1BXTXJJOTBvWl91VU51MHVubmVpYmpvbVdxYVpmX0NaYlFLLTNuM3FyWTRIZmpQSEtYM2ZWOUdkLW5Xc1E?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Pre-ordering games on day one",
-      "Waiting for heavy seasonal sales"
+      "Normal job me promotion aur increment milna",
+      "Claude ke IPO ke baad office me direct millionaire banna"
     ],
-    "caption": "Jab game ka wait karte karte umar beet jaye par sale ka intezaar kabhi khatam na ho! Relatable ya nahi? #gaming #gamerlife",
-    "source_id": "news_18",
+    "caption": "Jab startup ka IPO aaye aur dost bole bhai ab party kab dega! Techies after Claude payday be like...",
+    "source_id": "news_13",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1NSQWJJLTJXNmpMZjVqRnpXSzJkR2RsNEl5UWFSN3VGRTkzX3Q4LUViREFUZE5RSmROWThSVkMyOWdJMnRqYWhUTjZRZllqVVRBVzZQVkwxMDl6QmNIbTVrYXYteDlnNEM0bFkzVEFhcHVnUE9QbFBDaE8zaXZSZkNaakFsNVhJVGVvWUZmMVBHN0FJa3NnV3BORXlFR2xCeHZGUThMNTNJRHdHeFlFbHA5Z21BV09kUnlaTVlpYzZfNXM?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaHhBWHBNUW00OXBvRGt4NUsyRjRxam5tcGlVR0hRV2Jaa1R1bmZpbnFiVjE3aWk0aE1na0Fmd0xpWXpqemx5UTRGN2VpWHFzc2NVSnpGVHRNRXRwcXdZajZSVnpoLWVYelB6b0VHZEc3ak1XR0E1a3JfYU9RSFFETGpfWjdXdW82VS1aU3pjeVQ2QVRidlpVbG1tSXpRVVdKUzdKUXp2X1RGYVJWVU5zVDVOb0hIemxuUDNoUDRhUjBueGFVZXJiWTdET1RkWWpmS25IZXh2OHRrbDRteF9RTUx5UVIxYjltZGcwREZPc0VwZGQw0gH6AUFVX3lxTFBYbjdwcVZwYnR1aTY4ZUhQTVZRX1ZDSDd5ejVwTjNNRERncF9IT2NRMGxHZ0tXUm1kUWZaRXcxM2pNeTFNeUJQMUdHeFpyUW00TS0taWNyTHZvZ2VVQVhFMGdnSnBXbTNBMGMzTW1xOVhKeVhIY0JvbWx5SnNrdlVudWRuaThTNEw2Q3I2dklNOHJpNENCWmdBZWlJVmZxMTZ3RGkxQnJnOHVrdjlpTFlqS3dTMGZtM1hKYXBNX1BXTXJJOTBvWl91VU51MHVubmVpYmpvbVdxYVpmX0NaYlFLLTNuM3FyWTRIZmpQSEtYM2ZWOUdkLW5Xc1E?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-11-21T11:36:10.349777+00:00",
-    "id": "meme_20261121_1",
-    "date": "2026-11-21",
+    "template_fetched_at": "2026-11-22T11:50:05.350508+00:00",
+    "id": "meme_20261122_1",
+    "date": "2026-11-22",
     "attempt": 1,
-    "image_path": "generated/meme_20261121_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261121_1.jpg",
-    "telegram_message_id": 29
+    "image_path": "generated/meme_20261122_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261122_1.jpg",
+    "telegram_message_id": 30
   },
   "approved_candidate": null
 }
