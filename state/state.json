@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-26",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Anthropic IPO and Claude employee millionaires",
-    "category": "tech_startup",
-    "why_relevant": "Reflects the massive tech industry buzz around startup IPO paydays and employees turning into millionaires overnight.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaHhBWHBNUW00OXBvRGt4NUsyRjRxam5tcGlVR0hRV2Jaa1R1bmZpbnFiVjE3aWk0aE1na0Fmd0xpWXpqemx5UTRGN2VpWHFzc2NVSnpGVHRNRXRwcXdZajZSVnpoLWVYelB6b0VHZEc3ak1XR0E1a3JfYU9RSFFETGpfWjdXdW82VS1aU3pjeVQ2QVRidlpVbG1tSXpRVVdKUzdKUXp2X1RGYVJWVU5zVDVOb0hIemxuUDNoUDRhUjBueGFVZXJiWTdET1RkWWpmS25IZXh2OHRrbDRteF9RTUx5UVIxYjltZGcwREZPc0VwZGQw0gH6AUFVX3lxTFBYbjdwcVZwYnR1aTY4ZUhQTVZRX1ZDSDd5ejVwTjNNRERncF9IT2NRMGxHZ0tXUm1kUWZaRXcxM2pNeTFNeUJQMUdHeFpyUW00TS0taWNyTHZvZ2VVQVhFMGdnSnBXbTNBMGMzTW1xOVhKeVhIY0JvbWx5SnNrdlVudWRuaThTNEw2Q3I2dklNOHJpNENCWmdBZWlJVmZxMTZ3RGkxQnJnOHVrdjlpTFlqS3dTMGZtM1hKYXBNX1BXTXJJOTBvWl91VU51MHVubmVpYmpvbVdxYVpmX0NaYlFLLTNuM3FyWTRIZmpQSEtYM2ZWOUdkLW5Xc1E?oc=5",
+    "topic": "Anonymous donor gifting massive gold ornaments to temple",
+    "category": "money_shopping",
+    "why_relevant": "Relates to the news headline about an anonymous NRI donating heavy gold ornaments, poking fun at normal people trying to afford even small amounts of gold.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMixAFBVV95cUxNZktRb3pIVzhyNVp4bHFmQVFweE5vamJBMDE0WE16cXp3ZHRBbnBsNlZJMFRKRmI2VENZeFBRejRaS2ZrVy1IQkh0UUk4aXRCakUyNkRSdVFwSE5mMXlJRkliVWkwTWVBQ3Y2Z0xVT2trZ1lSX3NBczVRVlNzQ2VfM3ltTUhXUDlJVV9XWG95SktVT0xkZXpaYVBKc2NUMDZ4VGpWdUVCeUJNRlU0emhYSHFRMnVjNHlLc0IzODAyZXg3amVP0gHMAUFVX3lxTE90X1BZNTRocktkSDhtWHM5U21JaTNWT3RKTGNrZTJkUk9LSXpJUHdzUGllWGI1RkxuMXZTX3FCTmNzTUYxc3liZ1dNMXhLcDJQa0RuRnlfT1hCWnVzWmVycnZOSFdSREdzTVFRcDd5dnRyVXozYUhvRnBMVEhXcGNYSlA1VnZVczE3UzJiVnFOV01kc0owY0tZa0tucDlaY1lCam4xNTBJbWhlQkZPV25pZ2hfamU0c1gwVTBRQnU1akVScXBlWElwUTQ4Mw?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Normal job me promotion aur increment milna",
-      "Claude ke IPO ke baad office me direct millionaire banna"
+      "Buying a small gold ring for family wedding",
+      "Anonymous NRI donating massive gold to temple"
     ],
-    "caption": "Jab startup ka IPO aaye aur dost bole bhai ab party kab dega! Techies after Claude payday be like...",
-    "source_id": "news_13",
+    "caption": "Secret donor giving heavy gold while we calculate monthly budget! Relatable feels. #GoldDonation #Relatable",
+    "source_id": "news_9",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaHhBWHBNUW00OXBvRGt4NUsyRjRxam5tcGlVR0hRV2Jaa1R1bmZpbnFiVjE3aWk0aE1na0Fmd0xpWXpqemx5UTRGN2VpWHFzc2NVSnpGVHRNRXRwcXdZajZSVnpoLWVYelB6b0VHZEc3ak1XR0E1a3JfYU9RSFFETGpfWjdXdW82VS1aU3pjeVQ2QVRidlpVbG1tSXpRVVdKUzdKUXp2X1RGYVJWVU5zVDVOb0hIemxuUDNoUDRhUjBueGFVZXJiWTdET1RkWWpmS25IZXh2OHRrbDRteF9RTUx5UVIxYjltZGcwREZPc0VwZGQw0gH6AUFVX3lxTFBYbjdwcVZwYnR1aTY4ZUhQTVZRX1ZDSDd5ejVwTjNNRERncF9IT2NRMGxHZ0tXUm1kUWZaRXcxM2pNeTFNeUJQMUdHeFpyUW00TS0taWNyTHZvZ2VVQVhFMGdnSnBXbTNBMGMzTW1xOVhKeVhIY0JvbWx5SnNrdlVudWRuaThTNEw2Q3I2dklNOHJpNENCWmdBZWlJVmZxMTZ3RGkxQnJnOHVrdjlpTFlqS3dTMGZtM1hKYXBNX1BXTXJJOTBvWl91VU51MHVubmVpYmpvbVdxYVpmX0NaYlFLLTNuM3FyWTRIZmpQSEtYM2ZWOUdkLW5Xc1E?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZktRb3pIVzhyNVp4bHFmQVFweE5vamJBMDE0WE16cXp3ZHRBbnBsNlZJMFRKRmI2VENZeFBRejRaS2ZrVy1IQkh0UUk4aXRCakUyNkRSdVFwSE5mMXlJRkliVWkwTWVBQ3Y2Z0xVT2trZ1lSX3NBczVRVlNzQ2VfM3ltTUhXUDlJVV9XWG95SktVT0xkZXpaYVBKc2NUMDZ4VGpWdUVCeUJNRlU0emhYSHFRMnVjNHlLc0IzODAyZXg3amVP0gHMAUFVX3lxTE90X1BZNTRocktkSDhtWHM5U21JaTNWT3RKTGNrZTJkUk9LSXpJUHdzUGllWGI1RkxuMXZTX3FCTmNzTUYxc3liZ1dNMXhLcDJQa0RuRnlfT1hCWnVzWmVycnZOSFdSREdzTVFRcDd5dnRyVXozYUhvRnBMVEhXcGNYSlA1VnZVczE3UzJiVnFOV01kc0owY0tZa0tucDlaY1lCam4xNTBJbWhlQkZPV25pZ2hfamU0c1gwVTBRQnU1akVScXBlWElwUTQ4Mw?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-11-22T11:50:05.350508+00:00",
-    "id": "meme_20261122_1",
-    "date": "2026-11-22",
+    "template_fetched_at": "2026-11-26T13:00:02.504686+00:00",
+    "id": "meme_20261126_1",
+    "date": "2026-11-26",
     "attempt": 1,
-    "image_path": "generated/meme_20261122_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261122_1.jpg",
-    "telegram_message_id": 30
+    "image_path": "generated/meme_20261126_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261126_1.jpg",
+    "telegram_message_id": 31
   },
   "approved_candidate": null
 }
