@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Anonymous donor gifting massive gold ornaments to temple",
+    "topic": "Stock market index falling sharply",
     "category": "money_shopping",
-    "why_relevant": "Relates to the news headline about an anonymous NRI donating heavy gold ornaments, poking fun at normal people trying to afford even small amounts of gold.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMixAFBVV95cUxNZktRb3pIVzhyNVp4bHFmQVFweE5vamJBMDE0WE16cXp3ZHRBbnBsNlZJMFRKRmI2VENZeFBRejRaS2ZrVy1IQkh0UUk4aXRCakUyNkRSdVFwSE5mMXlJRkliVWkwTWVBQ3Y2Z0xVT2trZ1lSX3NBczVRVlNzQ2VfM3ltTUhXUDlJVV9XWG95SktVT0xkZXpaYVBKc2NUMDZ4VGpWdUVCeUJNRlU0emhYSHFRMnVjNHlLc0IzODAyZXg3amVP0gHMAUFVX3lxTE90X1BZNTRocktkSDhtWHM5U21JaTNWT3RKTGNrZTJkUk9LSXpJUHdzUGllWGI1RkxuMXZTX3FCTmNzTUYxc3liZ1dNMXhLcDJQa0RuRnlfT1hCWnVzWmVycnZOSFdSREdzTVFRcDd5dnRyVXozYUhvRnBMVEhXcGNYSlA1VnZVczE3UzJiVnFOV01kc0owY0tZa0tucDlaY1lCam4xNTBJbWhlQkZPV25pZ2hfamU0c1gwVTBRQnU1akVScXBlWElwUTQ4Mw?oc=5",
+    "why_relevant": "Reflects the recent market news headline about Sensex tanking heavily and Nifty dropping, which every retail investor tracks closely.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMioAJBVV95cUxPR2RVT3NLWDFORkxpYUxQMmRsNU9QdXMtcmJqMU5PLTBLOXEtdFBycmtteFNDTVNYenhWSDNQSEMzcy1md01vNU9FYktlTHBjNXUtX0F0ZkdLejh0cWZIa21zSVNPZXlPVTNoOWp1bDFDbDJfTnlYUTJud2dIVllITTd2S0ktZ2RSU29FVDhIdzdIUWhma0pfak9ETEstRlRENDVFcHZNaXNScGpWakkwRHpPZ2U5Q3QybDN1c05RclA2eEN3eFE3MzJ3ZWNwZkFvMkNmYVN5Mm5GMDFPRjgtX1RrWVA4aTdNWmRjSjVPRTdQOHhEQktnaUZHOWFvNDFHTlpscGJQRUZRcnlqZWt5TUFlYTRFbVV2VG5lYmZINXY?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Buying a small gold ring for family wedding",
-      "Anonymous NRI donating massive gold to temple"
+      "Checking portfolio after Sensex tanks",
+      "Closing the trading app and going to sleep"
     ],
-    "caption": "Secret donor giving heavy gold while we calculate monthly budget! Relatable feels. #GoldDonation #Relatable",
-    "source_id": "news_9",
+    "caption": "Market red mein dekh ke dil ki dhadkan tez ho gayi! Ab seedha agle saal check karenge. #StockMarket #Relatable",
+    "source_id": "news_14",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZktRb3pIVzhyNVp4bHFmQVFweE5vamJBMDE0WE16cXp3ZHRBbnBsNlZJMFRKRmI2VENZeFBRejRaS2ZrVy1IQkh0UUk4aXRCakUyNkRSdVFwSE5mMXlJRkliVWkwTWVBQ3Y2Z0xVT2trZ1lSX3NBczVRVlNzQ2VfM3ltTUhXUDlJVV9XWG95SktVT0xkZXpaYVBKc2NUMDZ4VGpWdUVCeUJNRlU0emhYSHFRMnVjNHlLc0IzODAyZXg3amVP0gHMAUFVX3lxTE90X1BZNTRocktkSDhtWHM5U21JaTNWT3RKTGNrZTJkUk9LSXpJUHdzUGllWGI1RkxuMXZTX3FCTmNzTUYxc3liZ1dNMXhLcDJQa0RuRnlfT1hCWnVzWmVycnZOSFdSREdzTVFRcDd5dnRyVXozYUhvRnBMVEhXcGNYSlA1VnZVczE3UzJiVnFOV01kc0owY0tZa0tucDlaY1lCam4xNTBJbWhlQkZPV25pZ2hfamU0c1gwVTBRQnU1akVScXBlWElwUTQ4Mw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPR2RVT3NLWDFORkxpYUxQMmRsNU9QdXMtcmJqMU5PLTBLOXEtdFBycmtteFNDTVNYenhWSDNQSEMzcy1md01vNU9FYktlTHBjNXUtX0F0ZkdLejh0cWZIa21zSVNPZXlPVTNoOWp1bDFDbDJfTnlYUTJud2dIVllITTd2S0ktZ2RSU29FVDhIdzdIUWhma0pfak9ETEstRlRENDVFcHZNaXNScGpWakkwRHpPZ2U5Q3QybDN1c05RclA2eEN3eFE3MzJ3ZWNwZkFvMkNmYVN5Mm5GMDFPRjgtX1RrWVA4aTdNWmRjSjVPRTdQOHhEQktnaUZHOWFvNDFHTlpscGJQRUZRcnlqZWt5TUFlYTRFbVV2VG5lYmZINXY?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-11-26T13:00:02.504686+00:00",
-    "id": "meme_20261126_1",
-    "date": "2026-11-26",
+    "template_fetched_at": "2026-11-27T12:58:23.951809+00:00",
+    "id": "meme_20261127_1",
+    "date": "2026-11-27",
     "attempt": 1,
-    "image_path": "generated/meme_20261126_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261126_1.jpg",
-    "telegram_message_id": 31
+    "image_path": "generated/meme_20261127_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261127_1.jpg",
+    "telegram_message_id": 32
   },
   "approved_candidate": null
 }
