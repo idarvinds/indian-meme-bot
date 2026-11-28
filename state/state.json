@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "attempts": 1,
   "rejected": [],
   "status": "pending",
   "current_candidate": {
-    "topic": "Stock market index falling sharply",
-    "category": "money_shopping",
-    "why_relevant": "Reflects the recent market news headline about Sensex tanking heavily and Nifty dropping, which every retail investor tracks closely.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMioAJBVV95cUxPR2RVT3NLWDFORkxpYUxQMmRsNU9QdXMtcmJqMU5PLTBLOXEtdFBycmtteFNDTVNYenhWSDNQSEMzcy1md01vNU9FYktlTHBjNXUtX0F0ZkdLejh0cWZIa21zSVNPZXlPVTNoOWp1bDFDbDJfTnlYUTJud2dIVllITTd2S0ktZ2RSU29FVDhIdzdIUWhma0pfak9ETEstRlRENDVFcHZNaXNScGpWakkwRHpPZ2U5Q3QybDN1c05RclA2eEN3eFE3MzJ3ZWNwZkFvMkNmYVN5Mm5GMDFPRjgtX1RrWVA4aTdNWmRjSjVPRTdQOHhEQktnaUZHOWFvNDFHTlpscGJQRUZRcnlqZWt5TUFlYTRFbVV2VG5lYmZINXY?oc=5",
+    "topic": "Bottled water safety and bacterial contamination",
+    "category": "health_lifestyle",
+    "why_relevant": "The recent news highlights a major crackdown on bottled water after bacterial samples were found in popular brands, making everyone double-check their drinking water.\nTemplate: Drake Hotline Bling\nSource: https://news.google.com/rss/articles/CBMisgFBVV95cUxPVVo0MmV3VWE5bkFxdlExTW5Qa1VRUm4tcHZnbmJKbmNwSjJiNjVuRFlwbHZqcFJYR2pHekJKdFptbDJlekZ0Z0VSRTV3bm5ydUNNNmdLMU5sZkFMLU95SVpnNW9MaXNPNllyZFJleUFWcHEteFZGczZzNHdBY1o3bERlTVp6a3lvd0E1RjFZNXNmRVFpdVVkNVR3MVpJa1dsVW0zcGVTM1I5UmRBVU5icmdB?oc=5",
     "template_id": "181913649",
     "panel_text": [
-      "Checking portfolio after Sensex tanks",
-      "Closing the trading app and going to sleep"
+      "Drinking normal tap water at home",
+      "Buying branded bottled water after reading the news"
     ],
-    "caption": "Market red mein dekh ke dil ki dhadkan tez ho gayi! Ab seedha agle saal check karenge. #StockMarket #Relatable",
-    "source_id": "news_14",
+    "caption": "Pani ki purity check karte karte khud ki sanity test ho rahi hai! Stay safe out there.",
+    "source_id": "news_2",
     "safety_score": 10,
     "relatability_score": 9,
-    "source_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPR2RVT3NLWDFORkxpYUxQMmRsNU9QdXMtcmJqMU5PLTBLOXEtdFBycmtteFNDTVNYenhWSDNQSEMzcy1md01vNU9FYktlTHBjNXUtX0F0ZkdLejh0cWZIa21zSVNPZXlPVTNoOWp1bDFDbDJfTnlYUTJud2dIVllITTd2S0ktZ2RSU29FVDhIdzdIUWhma0pfak9ETEstRlRENDVFcHZNaXNScGpWakkwRHpPZ2U5Q3QybDN1c05RclA2eEN3eFE3MzJ3ZWNwZkFvMkNmYVN5Mm5GMDFPRjgtX1RrWVA4aTdNWmRjSjVPRTdQOHhEQktnaUZHOWFvNDFHTlpscGJQRUZRcnlqZWt5TUFlYTRFbVV2VG5lYmZINXY?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVVo0MmV3VWE5bkFxdlExTW5Qa1VRUm4tcHZnbmJKbmNwSjJiNjVuRFlwbHZqcFJYR2pHekJKdFptbDJlekZ0Z0VSRTV3bm5ydUNNNmdLMU5sZkFMLU95SVpnNW9MaXNPNllyZFJleUFWcHEteFZGczZzNHdBY1o3bERlTVp6a3lvd0E1RjFZNXNmRVFpdVVkNVR3MVpJa1dsVW0zcGVTM1I5UmRBVU5icmdB?oc=5",
     "template": {
       "id": "181913649",
       "name": "Drake Hotline Bling",
@@ -24,13 +24,13 @@
       "panels": 2,
       "source": "Imgflip popularity feed; not verified India trends"
     },
-    "template_fetched_at": "2026-11-27T12:58:23.951809+00:00",
-    "id": "meme_20261127_1",
-    "date": "2026-11-27",
+    "template_fetched_at": "2026-11-28T12:10:28.140053+00:00",
+    "id": "meme_20261128_1",
+    "date": "2026-11-28",
     "attempt": 1,
-    "image_path": "generated/meme_20261127_1.jpg",
-    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261127_1.jpg",
-    "telegram_message_id": 32
+    "image_path": "generated/meme_20261128_1.jpg",
+    "public_image_url": "https://idarvinds.github.io/indian-meme-bot/generated/meme_20261128_1.jpg",
+    "telegram_message_id": 33
   },
   "approved_candidate": null
 }
